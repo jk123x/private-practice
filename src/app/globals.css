@@ -1,26 +1,243 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Ink — text hierarchy */
+  --color-ink: #1a1f2e;
+  --color-ink-light: #3d4459;
+  --color-ink-muted: #6b7280;
+
+  /* Paper — backgrounds */
+  --color-paper: #fafaf8;
+  --color-paper-warm: #f5f3ef;
+
+  /* Primary — deep slate/navy */
+  --color-primary: #2c3651;
+  --color-primary-light: #3d4a6b;
+  --color-primary-dark: #1e2640;
+  --color-primary-bg: #eef0f5;
+
+  /* Accent — warm amber */
+  --color-accent: #c97b3a;
+  --color-accent-light: #e8a85c;
+  --color-accent-dark: #a8622b;
+  --color-accent-bg: #fdf4eb;
+
+  /* Surfaces */
+  --color-surface: #ffffff;
+  --color-surface-warm: #f9f7f3;
+  --color-surface-muted: #f0ede8;
+
+  /* Borders */
+  --color-border: #e5e2dc;
+  --color-border-strong: #d0ccc4;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px rgba(26, 31, 46, 0.04);
+  --shadow-md: 0 4px 12px rgba(26, 31, 46, 0.06);
+  --shadow-lg: 0 8px 30px rgba(26, 31, 46, 0.08);
+  --shadow-xl: 0 20px 50px rgba(26, 31, 46, 0.1);
+
+  /* Easing */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-back: cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-background: var(--color-paper);
+  --color-foreground: var(--color-ink);
+  --font-sans: var(--font-outfit), system-ui, sans-serif;
+  --font-serif: var(--font-newsreader), Georgia, serif;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+}
+
+/* Container utility */
+.container-narrow {
+  max-width: 48rem;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+@media (min-width: 640px) {
+  .container-narrow {
+    padding-inline: 1.5rem;
+  }
+}
+
+.container-wide {
+  max-width: 72rem;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+@media (min-width: 640px) {
+  .container-wide {
+    padding-inline: 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container-wide {
+    padding-inline: 2rem;
+  }
+}
+
+/* Focus ring */
+.focus-ring {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  transition: outline-color 0.15s ease;
+}
+
+.focus-ring:focus-visible {
+  outline-color: var(--color-accent);
+}
+
+/* Hover lift */
+.hover-lift {
+  transition: transform 0.25s var(--ease-out-expo), box-shadow 0.25s var(--ease-out-expo);
+}
+
+.hover-lift:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+/* Reveal animation system */
+.reveal {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.6s var(--ease-out-expo), transform 0.6s var(--ease-out-expo);
+}
+
+.reveal.revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Hero entrance animations */
+.hero-headline {
+  opacity: 0;
+  transform: translateY(24px);
+  animation: hero-enter 0.8s var(--ease-out-expo) 0.1s forwards;
+}
+
+.hero-subtitle {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: hero-enter 0.8s var(--ease-out-expo) 0.25s forwards;
+}
+
+.hero-ctas {
+  opacity: 0;
+  transform: translateY(16px);
+  animation: hero-enter 0.8s var(--ease-out-expo) 0.4s forwards;
+}
+
+@keyframes hero-enter {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Stagger children */
+.stagger > * {
+  opacity: 0;
+  transform: translateY(12px);
+  animation: hero-enter 0.5s var(--ease-out-expo) forwards;
+}
+
+.stagger > *:nth-child(1) { animation-delay: 0.1s; }
+.stagger > *:nth-child(2) { animation-delay: 0.18s; }
+.stagger > *:nth-child(3) { animation-delay: 0.26s; }
+.stagger > *:nth-child(4) { animation-delay: 0.34s; }
+.stagger > *:nth-child(5) { animation-delay: 0.42s; }
+.stagger > *:nth-child(6) { animation-delay: 0.5s; }
+
+/* Subtle noise texture overlay */
+.texture-noise::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  opacity: 0.025;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Gradient mesh background */
+.gradient-warm {
+  background:
+    radial-gradient(ellipse 60% 50% at 20% 30%, rgba(201, 123, 58, 0.06), transparent),
+    radial-gradient(ellipse 50% 60% at 80% 70%, rgba(44, 54, 81, 0.04), transparent),
+    var(--color-paper);
+}
+
+/* Prose customization for guide pages */
+.prose-guide {
+  --tw-prose-headings: var(--color-ink);
+  --tw-prose-body: var(--color-ink-light);
+  --tw-prose-links: var(--color-primary);
+  --tw-prose-bold: var(--color-ink);
+  --tw-prose-counters: var(--color-accent);
+  --tw-prose-bullets: var(--color-accent);
+  --tw-prose-quotes: var(--color-ink-light);
+  --tw-prose-quote-borders: var(--color-accent);
+}
+
+/* Button base */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-weight: 500;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  transition: all 0.2s var(--ease-out-expo);
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 0.9375rem;
+  line-height: 1;
+}
+
+.btn-primary {
+  background: var(--color-primary);
+  color: white;
+  border: 1px solid transparent;
+}
+
+.btn-primary:hover {
+  background: var(--color-primary-light);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.btn-accent {
+  background: var(--color-accent);
+  color: white;
+  border: 1px solid transparent;
+}
+
+.btn-accent:hover {
+  background: var(--color-accent-dark);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.btn-outline {
+  background: transparent;
+  color: var(--color-primary);
+  border: 1px solid var(--color-border-strong);
+}
+
+.btn-outline:hover {
+  border-color: var(--color-primary);
+  background: var(--color-primary-bg);
 }
