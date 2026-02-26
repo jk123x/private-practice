@@ -31,7 +31,13 @@ export async function subscribeToKit({ email, source, utm }: SubscribeParams) {
 
   const data = await response.json();
 
+  if (!response.ok) {
+    console.error("Kit API error:", response.status, data);
+    throw new Error(`Kit API error: ${response.status}`);
+  }
+
   if (!data.subscription) {
+    console.error("Kit subscription missing:", data);
     throw new Error("Subscription failed");
   }
 
