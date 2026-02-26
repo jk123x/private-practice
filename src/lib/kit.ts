@@ -20,12 +20,19 @@ export async function subscribeToKit({ email, source, utm }: SubscribeParams) {
     }
   }
 
+  // Kit v4 API with Bearer auth
   const response = await fetch(
-    `https://api.convertkit.com/v3/forms/${formId}/subscribe`,
+    `https://api.kit.com/v4/forms/${formId}/subscribers`,
     {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ api_key: apiKey, email, fields }),
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({
+        email_address: email,
+        custom_fields: fields,
+      }),
     }
   );
 
@@ -34,11 +41,6 @@ export async function subscribeToKit({ email, source, utm }: SubscribeParams) {
   if (!response.ok) {
     console.error("Kit API error:", response.status, data);
     throw new Error(`Kit API error: ${response.status}`);
-  }
-
-  if (!data.subscription) {
-    console.error("Kit subscription missing:", data);
-    throw new Error("Subscription failed");
   }
 
   return data;
