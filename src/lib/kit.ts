@@ -27,7 +27,7 @@ export async function subscribeToKit({ email, source, utm }: SubscribeParams) {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        Authorization: `Bearer ${apiKey}`,
+        "X-Kit-Api-Key": apiKey,
       },
       body: JSON.stringify({
         email_address: email,
