@@ -1,209 +1,146 @@
 # Chapter 5: Financial Foundations
 
-The clinical side of your practice will feel familiar. You trained for years for it. The financial side won't. Most allied health degrees include zero hours of business finance, and it shows in the mistakes new practice owners make.
+> [!tldr]
+> Nobody withholds tax for you anymore. You need to set aside 25-30% of your net income for tax, pay your own super, and learn to budget when your income moves around. Get a dedicated business bank account, a separate tax savings account, and an accountant — all before you see your first patient.
 
-This chapter covers the financial reality of running a solo practice: budgeting when your income moves around, understanding your tax obligations, setting up superannuation properly, knowing what you can claim as deductions, and managing cash flow so you don't run out of money during quiet periods.
+> [!key-number]
+> **25–30%** — what to set aside for tax from every payment
+> **11.5%** — super rate to pay yourself (matching what an employer would)
+> **$1,500–$4,000/yr** — what a good accountant costs (and they save you more than this)
 
-## Variable Income: The Biggest Adjustment
+When you were employed, money flowed in on a schedule and the complicated stuff happened invisibly. Tax was withheld. Super was deposited. Leave accrued. You saw the number in your bank account and that was your money.
 
-As an employee, you knew what was hitting your bank account every fortnight. In private practice, you don't.
+In private practice, the full amount hits your account and it feels like it's all yours. It isn't. About a third of it belongs to the ATO, another chunk needs to go to super, and the amount that's actually available for you to spend is smaller than it looks. Getting your head around this early is the difference between a smooth first year and a $15,000 surprise at tax time.
 
-Your revenue will vary week to week based on:
-- How many patients you see
-- How many cancel or don't show
-- Whether it's school holidays (often quieter)
-- Seasonal patterns (January and July are typically slow)
-- Whether you take time off (no income while you're away, costs continue)
+## Budgeting When Your Income Moves Around
 
-In Year 1 especially, the fluctuation can be extreme. A $2,500 week followed by a $900 week. That's normal. It's not a crisis. It's the rhythm of private practice.
+Revenue will swing. A $2,500 week followed by a $900 week. January will be quiet. School holidays will be quiet. The week you take off for a wedding costs you a week of income while expenses keep running.
 
-### How to budget on variable income
+This is normal. It's not a crisis. But it does mean you can't budget the way you did on a salary.
 
-**Step 1: Work with your average, not your best week.**
+**Work from your average, not your best week.** Look at the last 2-3 months of revenue (or project from your patient numbers if you're just starting) and use the monthly average as your baseline. Good weeks aren't windfalls to spend; they're building the buffer for quiet ones.
 
-Take your monthly revenue, look at the last 3 months (or project based on your patient numbers), and use the average as your baseline. Don't budget based on your best week. Don't panic based on your worst.
+**Pay yourself a fixed amount on a schedule.** Even as a sole trader, set a fortnightly transfer from your business account to your personal account. Pick a number that covers your personal expenses and stick to it. If your average monthly net revenue is $8,000 and business expenses are $3,000, you have about $5,000 of potential drawings. Don't take $5,000. Take $3,500 and leave $1,500 in the business.
 
-**Step 2: Pay yourself a fixed "salary" from the business.**
+**Build a buffer before you build your lifestyle.** Aim for 2-3 months of business expenses saved in your business account before you start bumping up what you pay yourself. This buffer protects you during school holidays, illness, or that week your software goes down. Without it, every slow period becomes a financial emergency. With it, slow periods are just slow periods.
 
-Even as a sole trader, treat your drawings like a paycheck. Decide on a fortnightly amount that covers your personal expenses, and transfer that amount from your business account to your personal account on a schedule.
+> [!key-takeaway]
+> The most common financial mistake isn't overspending on equipment or software. It's drawing too much during good months and having nothing left for the quiet ones. A $1,500/month buffer in your business account solves this.
 
-Start conservative. If your average monthly revenue is $8,000 and your business expenses are $3,000, you have $5,000 of potential drawings. Don't pay yourself $5,000. Pay yourself $3,500 and keep $1,500 in the business as a buffer.
+## Tax
 
-**Step 3: Build a buffer before you build your lifestyle.**
+### The basics
 
-Aim for 2-3 months of business expenses saved in your business account before you start increasing your personal drawings. This buffer protects you during quiet periods (school holidays, illness, that time your practice management software goes down for three days).
+As a sole trader, your business income is your personal income. You pay income tax at your personal rate on your net business income (revenue minus deductions).
 
-This matters because the most common financial mistake new practice owners make isn't overspending on business expenses. It's drawing out too much in the good months and having nothing left for the quiet ones. A $1,500/month buffer solves this.
+As a Pty Ltd, the company pays tax at 25% (small business rate) and you pay yourself a salary, which is then taxed at personal rates.
 
-## Tax: What You Need to Know
+Either way, you need to be setting money aside for tax with every payment you receive. When you were employed, your employer took care of this. Now it's on you.
 
-### Income tax
+**The simple version: set aside 25-30% of your net income into a separate savings account. Every time you get paid.** When your BAS or tax return is due, the money is sitting there. If you've slightly over-saved, that's a nice problem to have. If you've under-saved, you've got a problem that costs penalties and interest.
 
-As a sole trader, your business income is your personal income. You'll pay income tax at your marginal rate on your net business income (revenue minus allowable deductions).
-
-As a company (Pty Ltd), the business pays company tax (25% for small businesses) and you pay yourself a salary, which is then taxed at personal rates.
-
-Either way, you need to set aside money for tax regularly. It's not deducted from your income like it is when you're employed. You need to do it yourself.
-
-**The simple rule: Set aside 25-30% of your net income for tax.**
-
-Put this in a separate savings account. Don't touch it. When your BAS or tax return is due, the money is there. If you've over-saved, great. If you've under-saved, you have a problem.
+> [!tip]
+> Open a savings account specifically for tax. Name it "TAX — DO NOT TOUCH" or whatever helps you not raid it. Set up an automatic transfer or move the money manually every time revenue comes in. The discipline matters more than the exact percentage.
 
 ### BAS (Business Activity Statement)
 
-If your annual revenue is above $75,000, you must register for GST. Below that, GST registration is optional.
+If your annual revenue is above $75,000, you have to register for GST. Below that, it's optional.
 
-For many CDM practitioners, most of your services are GST-free (medical services by registered health practitioners). This means you may not hit the GST threshold even if your gross revenue exceeds $75,000, because GST-free supplies don't count toward the $75,000 threshold.
+For CDM practitioners, most of your clinical services are GST-free (medical services by registered health practitioners). This means you might not hit the GST threshold even with gross revenue above $75K, because GST-free income doesn't count toward the threshold. But some things do attract GST: product sales, some services by non-AHPRA professions (EPs, see Chapter 2), and room rental income if you sub-let.
 
-However, some services and products may attract GST:
-- Retail product sales
-- Some services by non-AHPRA-registered practitioners (exercise physiologists, see Chapter 2)
-- Room rental income (if you sub-let to other practitioners)
+If you're registered for GST, you lodge a BAS quarterly. It reports your GST collected, GST paid on business expenses, and your PAYG income tax instalments. Your accounting software handles the preparation; your accountant reviews and lodges it. Don't try to do BAS manually unless you're confident in the process.
 
-Talk to your accountant about whether and when to register for GST. Get this right early; fixing GST mistakes retrospectively is painful and expensive.
+### PAYG Instalments
 
-**BAS lodgement:** If you're registered for GST, you lodge a BAS quarterly (or monthly if you choose). This reports your GST collected, GST paid on business expenses, and your PAYG income tax instalments.
+Once the ATO knows you're earning business income, they'll set you up with PAYG (Pay As You Go) instalments — quarterly income tax payments spread across the year instead of a lump sum at tax time.
 
-Most accounting software (Xero, MYOB, QuickBooks) handles BAS preparation. Your accountant can review and lodge it. Don't try to do BAS manually if you're not confident with the process.
-
-### PAYG instalments
-
-Once the ATO knows you're earning business income, they'll set you up with PAYG (Pay As You Go) instalments. This means you'll pay income tax in quarterly instalments during the year, rather than a lump sum at tax time.
-
-The ATO usually calculates your instalment amount based on your previous year's income. In your first year, you may not have PAYG instalments, which means a larger tax bill when you lodge your return. Plan for this.
+In your first year you probably won't have these set up, because the ATO doesn't know your income yet. That means your first tax return could produce a larger-than-expected bill covering the whole year at once. This is the tax surprise that catches first-year practitioners. Plan for it. If you've been setting aside 25-30% all year, you're covered.
 
 ## Superannuation
 
-As an employee, your employer pays super on top of your salary (currently 11.5%). In private practice, nobody pays super for you. You have to do it yourself.
+Your employer used to put 11.5% of your salary into super automatically. That's stopped. If you want super contributions, you make them yourself.
 
 ### As a sole trader
 
-Superannuation contributions are not mandatory for sole traders. You choose whether to contribute and how much.
+Super contributions are technically optional for sole traders. You choose whether to contribute and how much.
 
-However, skipping super is one of the most expensive long-term mistakes you can make. Every year you don't contribute is a year of lost compound growth. The difference between contributing from day one and starting 5 years later is hundreds of thousands of dollars at retirement.
+But skipping super is one of the most costly long-term decisions you can make, and it's tempting because the money feels more useful right now. Every year without contributions is a year of compound growth you don't get back. The gap between starting super in Year 1 and starting in Year 5 compounds into hundreds of thousands by retirement.
 
-**Recommended approach:** Contribute at least 11.5% of your drawings (matching what an employer would pay). Set up an automatic transfer to your super fund each time you pay yourself. Make it non-negotiable.
+Set up an automatic transfer to your super fund every time you pay yourself. Match the rate an employer would pay — 11.5%. Make it automatic and treat it like any other expense, not something you'll "get around to when things settle down."
 
-Super contributions are also tax-deductible (up to the concessional cap of $30,000 per year including employer contributions from any employment). This means contributing to super reduces your taxable income. It's genuinely one of the best tax strategies available to sole traders.
+Super contributions are also tax-deductible (up to the concessional cap of $30,000/year). Contributing to super reduces your taxable income. For sole traders, it's one of the most effective tax strategies available and it's building your retirement at the same time.
+
+> [!warning]
+> "I'll sort out super once the practice is more established" is how practitioners end up five years in with zero contributions. Set it up in your first month. Even $200/fortnight is better than nothing, and you can increase it as your income grows.
 
 ### As a Pty Ltd director
 
-If you pay yourself a salary through your company, you're legally required to pay super on that salary at the standard rate (11.5%). This is a mandatory obligation, not optional.
+If you pay yourself a salary through your company, super at 11.5% on that salary is a legal obligation, not optional. You can make additional personal contributions on top if you want.
 
-You can also make additional personal super contributions if you want to exceed the employer obligation.
+## Deductions
 
-## Deductions: What You Can Claim
+Business deductions reduce your taxable income. Every legitimate deduction you miss is tax you didn't need to pay. The flip side: claiming things that aren't legitimate deductions will cost you more when the ATO catches up.
 
-Business deductions reduce your taxable income. Understanding what you can claim is the difference between paying appropriate tax and paying too much.
+### What you can claim
 
-### Common deductions for allied health practitioners
+**Running the practice** — room rental, practice management software, clinical equipment and supplies, cleaning, utilities for your practice space.
 
-**Practice expenses:**
-- Room rental or lease costs
-- Practice management software subscriptions
-- Clinical equipment and supplies
-- Cleaning and maintenance of your practice space
-- Utilities (electricity, internet, phone) for your practice location
+**Professional costs** — AHPRA registration (or equivalent), professional association membership, professional indemnity and public liability insurance, CPD courses and conferences, journals and subscriptions.
 
-**Professional expenses:**
-- AHPRA registration or equivalent
-- Professional association membership
-- Professional indemnity and public liability insurance
-- Continuing professional development (courses, conferences, workshops)
-- Professional subscriptions and journals
+**Admin costs** — accounting and bookkeeping fees, business banking fees, business phone and internet, stationery, postage.
 
-**Administrative expenses:**
-- Accounting and bookkeeping fees
-- Business banking fees
-- Business-related phone and internet costs
-- Stationery and printing
-- Postage (yes, you'll still send letters to GPs)
+**Travel** — driving between practice locations, to home visits, to professional development. Not your daily commute from home to your primary practice location, that's personal.
 
-**Motor vehicle expenses:**
-- Travel between practice locations
-- Home visits
-- Travel to professional development events
-- NOT your commute from home to your primary practice location (that's personal)
-
-**Home office expenses (if applicable):**
-- If you do admin work from a dedicated home office space
-- Proportion of rent/mortgage interest, electricity, internet
-- Furniture and equipment for your home office
-- The ATO has specific methods for calculating home office deductions; use the one that gives you the best outcome
+**Home office** — if you do admin from a dedicated home office, you can claim a proportion of rent or mortgage interest, electricity, internet, and furniture for that space. The ATO has specific methods for calculating this; your accountant will use whichever gives you the best outcome.
 
 ### What you can't claim
-- Personal expenses, even if you buy them through your business account
-- Clothing (unless it's specifically required for your role, like a lab coat with your name embroidered)
-- Fines and penalties
-- Entertainment expenses (the rules here are strict and rarely worth the hassle)
-- Your initial university degree costs (the training that qualified you is not deductible)
+
+Personal expenses (even if they go through your business account), regular clothing (a uniform with your practice logo might qualify, ask your accountant), fines, entertainment expenses (the rules are strict and rarely worth the effort), and the cost of your original degree.
 
 ### Record keeping
 
-Keep receipts for everything. Digital is fine (take a photo with your phone and store it in your accounting software). The ATO requires you to keep records for 5 years. If you're audited and can't produce receipts, you lose the deduction.
+Keep receipts for everything. The ATO requires records for 5 years. Digital is fine — photograph receipts with your phone and upload them to your accounting software. Do it daily or weekly. Do not wait until tax time to sort through a year of paper in a shoebox. That approach guarantees you'll miss deductions and your accountant will charge you more.
 
-A simple system: every time you spend money on the business, photograph the receipt and upload it to your accounting software (Xero, MYOB, etc.). Tag it with the correct expense category. Do this daily or weekly. Don't wait until tax time to sort through a shoebox of receipts.
+> [!tip]
+> Pick a day of the week — Friday afternoon works well — and spend 15 minutes categorising any transactions from the week in your accounting software. It takes 15 minutes when you do it weekly. It takes an agonising full day when you do it annually.
 
-## Cash Flow Management
+## Cash Flow
 
-Cash flow is different from profit. You can be profitable on paper and still run out of cash. This happens when your expenses are due before your revenue arrives.
+Cash flow is different from profit. You can be profitable on paper and still run out of money. This happens when expenses are due before revenue arrives.
 
-### Common cash flow traps
+The most common cash flow traps for CDM practitioners:
 
-**Slow Medicare payments.** If you're billing Medicare directly (via HPOS or your software), payments typically process within 1-2 business days. But if patients are claiming themselves and then paying you, there can be delays.
+**NDIS payment delays.** Plan-managed payments can take 7-14 business days. If NDIS work is a significant part of your caseload, that lag creates gaps. Track outstanding NDIS invoices separately.
 
-**Slow NDIS payments.** Plan-managed NDIS payments can take 7-14 business days. Agency-managed claims process faster (3-5 days) but require registration. If you have a significant NDIS caseload, the payment lag can create cash flow gaps.
+**Quarterly expenses clustering.** BAS payments, insurance renewals, AHPRA registration, association memberships — they tend to land in the same quarter. Save for them monthly so the cash is there when they're due.
 
-**Quarterly expenses hitting at once.** BAS payments, insurance renewals, AHPRA registration, and association memberships can cluster in the same quarter. Spread these out where possible, or save for them monthly so the cash is available when they're due.
+**Seasonal dips.** Patient volumes drop during school holidays, especially January and July. Your rent and insurance don't. Budget for 2-4 quieter weeks per year.
 
-**School holiday drops.** Patient volumes typically drop during school holidays (particularly January, July, and the two-week breaks). Your expenses don't drop. Plan for 2-4 weeks per year of lower revenue.
+**Invoicing delays.** Bill at the point of service, not at the end of the week or month. Set up direct Medicare billing through your software — it's faster than patients claiming and reimbursing you.
 
-### Cash flow tips
-
-1. **Invoice immediately.** Don't wait until end of week or end of month. Bill patients at the point of service.
-
-2. **Set up direct billing** for Medicare through your practice management software. It's faster than asking patients to claim themselves.
-
-3. **Save for quarterly expenses monthly.** If your BAS is $3,000 per quarter, put $1,000 aside each month. When the bill arrives, the money is already there.
-
-4. **Maintain a minimum balance** in your business account. Decide on a number (e.g., $5,000) below which you won't draw personal income. This is your cash flow safety net.
-
-5. **Review your cash position weekly.** Spend 10 minutes every Monday looking at your bank balance, upcoming expenses, and expected income for the week. This prevents surprises.
+> [!tip]
+> Check your bank balance every Monday morning. Ten minutes: current balance, upcoming expenses this week, expected income. It's not exciting, but it prevents the kind of cash flow surprise that ruins your Tuesday.
 
 ## Getting an Accountant
 
-You need an accountant. This is not optional.
+You need one. This is not an area to DIY.
 
-A good accountant for a solo allied health practice will:
-- Set up your accounting software and chart of accounts
-- Lodge your BAS each quarter
-- Prepare and lodge your annual tax return
-- Advise on business structure (sole trader vs Pty Ltd, and when to switch)
-- Help you plan your super contributions
-- Advise on GST obligations specific to your profession
-- Flag tax planning opportunities you'd otherwise miss
+A good accountant for a solo allied health practice will set up your accounting software, lodge your BAS quarterly, prepare your tax return, advise on when (if ever) to switch from sole trader to Pty Ltd, help you plan super contributions, and flag deductions you'd otherwise miss.
 
-**What to look for:**
-- Experience with small businesses and/or healthcare practitioners
-- Fixed-fee pricing (not hourly, so you're not afraid to ask questions)
-- Responsive communication (you should be able to email a question and get a timely answer)
-- They use cloud accounting software that integrates with your practice management system
+**What to look for:** experience with small businesses or healthcare practitioners, fixed-fee pricing (not hourly — you want to be able to ask questions without watching a meter), responsive communication, and they use cloud accounting software that integrates with your practice management system.
 
-**What to expect to pay:** $1,500-$4,000 per year for a sole trader with quarterly BAS lodgement and annual tax return. A Pty Ltd structure adds complexity and cost ($3,000-$6,000+).
+**What to expect to pay:** $1,500-$4,000/year for a sole trader with quarterly BAS and annual tax return. Pty Ltd adds complexity and cost ($3,000-$6,000+).
 
-This matters because a good accountant saves you more than they cost. Every missed deduction is tax you didn't need to pay. Every compliance mistake is a penalty you didn't need to cop. The $2,000 you spend on an accountant will likely save you $3,000-$5,000 in your first year through correct structuring and deductions alone.
+A good accountant saves you more than they cost. Every missed deduction is tax you overpaid. Every compliance mistake is a penalty you didn't need. The $2,000 you spend on an accountant likely saves $3,000-$5,000 in your first year through correct structuring and deductions alone.
 
-## Your Financial Setup Checklist
-
-Before you see your first patient:
-
-- [ ] Open a dedicated business bank account (separate from personal)
-- [ ] Set up accounting software (Xero or MYOB are the most common)
-- [ ] Find and engage an accountant
-- [ ] Set up a separate savings account for tax (transfer 25-30% of net income)
-- [ ] Set up super contributions (automatic, matching at least 11.5%)
-- [ ] Understand your GST obligations
-- [ ] Create a simple budget based on projected patient numbers
-- [ ] Decide on your "salary" amount and pay schedule
-
-Get these right from day one. Fixing financial foundations 12 months in is possible but costs time and money.
+> [!action]
+> ## Financial Setup Checklist
+> - [ ] Open a dedicated business bank account (separate from personal — non-negotiable)
+> - [ ] Open a separate savings account for tax and label it clearly
+> - [ ] Set up accounting software (Xero or MYOB are most common for allied health)
+> - [ ] Find and engage an accountant before you see your first patient
+> - [ ] Set up automatic super contributions (11.5% of your drawings, minimum)
+> - [ ] Clarify your GST obligations with your accountant
+> - [ ] Set a fortnightly "salary" amount to transfer to your personal account
+> - [ ] Set a weekly 15-minute window for receipt capture and transaction categorisation
+> - [ ] Set aside 25-30% of net income for tax with every payment received

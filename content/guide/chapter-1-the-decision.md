@@ -1,120 +1,113 @@
-# Chapter 1: The Decision — Employed vs Private Practice
+# Chapter 1: The Financial Reality
 
-You're reading this because you're thinking about going private. Maybe you're working in a hospital and wondering what it would be like to run your own clinic. Maybe you're in someone else's practice and tired of seeing 60% of your billings disappear into someone else's overhead. Maybe you just qualified and you're weighing your options.
+> [!tldr]
+> Most new practice owners take home less in Year 1 than they did as an employee. That's normal, and it usually reverses by Year 2-3 once your patient load is consistent. This chapter shows you the real numbers so you know what to expect — and flags the situations where the timing might not be right.
 
-Whatever brought you here, the decision to go into private practice is fundamentally a financial and lifestyle decision. Not a clinical one. Your clinical skills don't change when you hang your own shingle. What changes is everything around them.
+> [!key-number]
+> **$91K–$115K** — total employed package once you count super and leave
+> **$42K–$71K** — realistic Year 1 take-home in private practice
+> **Year 2–3** — when the income gap typically closes
 
-This chapter is the honest version of that decision. Not "follow your passion" motivation. Not "anyone can do it" encouragement. Just the numbers, the trade-offs, and a framework for figuring out whether this is right for you, right now.
+Your last paycheck as an employee covered everything. Tax, super, leave — all handled before the money hit your account. You knew what was coming in each fortnight and you could plan around it.
 
-## The Financial Reality Check
+Your first month in private practice, you'll earn what looks like more money and take home less of it. That gap between gross revenue and actual take-home pay is where most of the early disappointment comes from, and it's almost always because people compare the wrong numbers.
 
-Let's start with the part nobody likes talking about: money.
+They compare their employed salary to their practice revenue. But salary doesn't include the super your employer was paying on top, the leave entitlements you were accruing, or the fact that someone else was covering you when patients cancelled. Revenue doesn't subtract the room rental, insurance, software, super you now pay yourself, or the tax nobody's withholding for you.
 
-**As an employee**, your income is predictable. You know what's coming in each fortnight. You get paid sick leave, annual leave, and superannuation on top. If a patient cancels, you still get paid. If the practice has a quiet week, you still get paid.
+The real comparison looks like this.
 
-**In private practice**, none of that exists. Your income is directly tied to how many patients you see, minus every single expense required to see them. There's no paid leave. Super comes out of your own pocket. A cancellation isn't an inconvenience, it's lost revenue.
-
-Here's what that looks like in practice.
-
-### Employed income (typical)
+### Employed income (typical allied health)
 
 | Metric | Estimate |
 |--------|----------|
-| Gross salary | $75,000-$95,000 |
-| Super (on top) | $8,250-$10,450 |
-| Paid leave value | ~$8,000-$10,000 |
-| Total package | ~$91,000-$115,000 |
-| Your risk | Very low |
+| Gross salary | $75,000–$95,000 |
+| Super (paid on top by employer) | $8,250–$10,450 |
+| Paid leave value | ~$8,000–$10,000 |
+| Total package | ~$91,000–$115,000 |
+| Your financial risk | Very low |
 
 ### Private practice income (Year 1, realistic)
 
 | Metric | Estimate |
 |--------|----------|
-| Sessions per week | 15-20 (building up) |
-| Average session fee | $100-$130 |
-| Gross weekly revenue | $1,500-$2,600 |
-| Annual gross (48 weeks) | $72,000-$125,000 |
-| Minus expenses | $25,000-$45,000 |
-| Net income before tax | $47,000-$80,000 |
-| Minus your own super | $5,200-$8,800 |
-| What you actually take home | $41,800-$71,200 |
+| Sessions per week | 15–20 (building up) |
+| Average session fee | $100–$130 |
+| Gross weekly revenue | $1,500–$2,600 |
+| Annual gross (48 weeks) | $72,000–$125,000 |
+| Minus expenses | $25,000–$45,000 |
+| Net income before tax | $47,000–$80,000 |
+| Minus your own super | $5,200–$8,800 |
+| What you actually take home | $41,800–$71,200 |
 
-Read those numbers carefully. In Year 1, many new practice owners take home less than they would as an employee. That's normal. It's not a sign you've made a mistake. It's the cost of building something.
+Look at the bottom number. In Year 1, a lot of new practice owners take home less than their employed salary. Not because the practice is failing, but because they're building a patient base from scratch and paying costs that used to be invisible.
 
-This matters because the comparison isn't salary vs revenue. It's total employed package (salary + super + leave + stability) vs net private income (revenue minus every single cost, including the ones you haven't thought of yet). Most people who feel disappointed in their first year made the comparison wrong.
+> [!key-takeaway]
+> The comparison that matters isn't salary vs revenue. It's total employed package (salary + super + leave + stability) vs net private income (revenue minus every cost, including the ones that used to be someone else's problem). Getting this comparison right saves you from the "was this a mistake?" spiral that hits most people around month four.
 
-## The Real Comparison: What Changes
+## When the Numbers Shift
 
-The financial gap usually closes by Year 2-3. Once you're seeing 20-25 patients per week consistently, the maths shifts substantially. A well-run solo practice can generate $120,000-$180,000+ in gross revenue, with a take-home that exceeds most employed positions.
+The gap usually closes by Year 2-3. Once you're consistently seeing 20-25 patients a week, the numbers change in your favour. A steady solo practice can generate $120,000-$180,000+ in gross revenue, with take-home that comfortably beats most employed positions.
 
-But money isn't the only thing that changes. Here's what else shifts.
+But money isn't the only thing that changes. Going private reshapes your working life in ways that matter beyond the bank balance.
 
-### What you gain
-- **Control over your schedule.** You decide when you work, how long your sessions are, and when you take time off. Nobody schedules you for a 6:30am Saturday shift.
-- **Control over your clinical approach.** You choose your patient load, your treatment methods, and how long you spend with each person. No more being told to see 8 patients in a 4-hour block.
-- **All of the upside.** When the practice grows, all of the growth flows to you. An employed position caps your income at whatever the employer decides.
-- **An asset.** A practice with an established patient base and referral network has value. An employment history doesn't.
+**What you get.** You choose your own hours, your clinical approach, your patient load. No more being rostered for a 6:30am Saturday. No more seeing 8 patients in a 4-hour block because someone else decided that's efficient. When the practice grows, all of that growth goes to you. And a practice with established patients and referral relationships is an asset that has real value — an employment history isn't.
 
-### What you lose
-- **Predictability.** Especially in the first 6-12 months, your income will fluctuate week to week. Quiet weeks are stressful in a way they never were as an employee.
-- **Someone else handling the admin.** Billing, bookkeeping, insurance renewals, software management, cleaning, ordering supplies. It's all yours now.
-- **Paid time off.** Every day you don't work is a day with zero revenue and ongoing expenses. Holidays cost you twice: the trip itself and the income you didn't earn.
-- **Separation between work and worry.** As an employee, you can leave work at work. As a practice owner, the business is always in the back of your mind.
+**What you give up.** Predictability, mostly. Your income will swing week to week, and quiet weeks feel different when the rent still comes out. Nobody handles the admin for you anymore — billing, bookkeeping, insurance, cleaning, supplies. Every day off costs you twice: the break itself and the income you didn't earn. And there's a background hum of responsibility that doesn't switch off when you leave the clinic.
 
-## When NOT to Go Private
+Both sides are real. Anyone who tells you it's all upside is selling something. Anyone who tells you it's too risky hasn't run the numbers past Year 1.
 
-This is the section most guides skip. Here are the situations where staying employed is genuinely the better call.
+## Red Flags Worth Taking Seriously
 
-**You have significant debt and no financial buffer.** Starting a practice requires at least 3-6 months of living expenses saved up, plus startup costs ($5,000-$30,000 depending on your profession and setup). If you're carrying substantial personal debt and have minimal savings, the financial stress of inconsistent early income on top of debt repayments can be overwhelming.
+Some situations make the timing harder. These aren't reasons to never go private — they're reasons to wait, or to use the hybrid approach covered below.
 
-**You're not comfortable with uncertainty.** Some people genuinely thrive on stability and predictability, and that's not a weakness. If the idea of a $2,000 week followed by a $400 week causes you significant anxiety, private practice will be harder for you than it is for someone who can ride those waves.
+**No financial buffer.** You need 3-6 months of living expenses saved up, separate from startup costs ($5,000-$30,000 depending on your setup). Starting with no buffer means every quiet week becomes a crisis rather than a normal part of building up.
 
-**You hate admin and have no intention of learning it.** In a solo practice, you'll spend 20-30% of your time on non-clinical work. Billing, bookkeeping, marketing, scheduling, compliance. If you find admin deeply draining and don't want to learn systems to manage it, you'll burn out fast.
+**You're already in a major life transition.** New baby, relationship change, moving cities. The first year of private practice is demanding on its own. Stacking it on top of something else makes both things harder.
 
-**Your personal life needs stability right now.** Starting a practice during a major life transition (new baby, relationship change, moving cities) compounds stress. The first year of private practice is demanding. Stacking it on top of other major changes makes everything harder.
+**Your area is saturated.** Fifteen physio clinics within 5km and no obvious gap? It's not impossible, but your timeline to a full patient load stretches out and the financial pressure builds. Worth checking before you commit.
 
-**Your area is saturated with your profession.** If there are already 15 physio clinics within 5km and no clear gap in the market, building a referral base will take longer and cost more. It's not impossible, but the timeline extends and the financial pressure increases.
+> [!tip]
+> Before you sign a room rental agreement, spend an afternoon on Google Maps and HotDoc looking at how many practices in your profession already exist within 10km of your planned location. If the area is clearly crowded, look at neighbouring suburbs or consider whether you can differentiate on services (telehealth, home visits, a specialty niche) rather than competing on proximity.
 
-None of these are permanent disqualifiers. They're timing factors. If any of them apply to you right now, the answer might not be "no" but "not yet."
+**You find admin draining and don't want to learn systems for it.** About one day out of every five in solo practice is non-clinical — billing, bookkeeping, emails, scheduling. If that sounds unbearable, and outsourcing it all isn't in budget, you'll burn out before the patient load catches up.
 
-## The Hybrid Option
+None of these are permanent. They're timing problems. If a couple of them apply to you right now, the answer might be "not yet" rather than "not ever."
 
-There's a middle path that many successful practice owners used to transition, and it's worth considering seriously.
+## The Hybrid Approach
 
-**Start part-time while employed.** Work 3-4 days in your current role. Rent a room 1-2 days per week. Build your patient base and referral network while you still have reliable income.
+There's a middle path and it's worth considering seriously: start part-time while still employed.
 
-This approach has real advantages:
-- You can test demand in your area before committing
-- You build a referral base with zero financial pressure
-- You learn the admin side with low stakes
-- You have a realistic preview of what your patient flow looks like before going full-time
+Work 3-4 days in your current role. Rent a room 1-2 days a week. Build your patient base and GP referral network while you still have reliable income coming in.
 
-The downsides are also real:
-- You're working harder than a single role (at least temporarily)
-- Some employers won't allow it (check your contract for non-compete clauses)
-- Patients who want your specific availability may not be able to book around a part-time schedule
-- You'll need separate insurance and a provider number for your private work
+This works well for a few reasons. You can test whether there's demand in your area before going all-in. You build referrals with zero financial pressure. You learn the admin side when the stakes are low. And you get a realistic preview of what your patient flow looks like before betting everything on it.
 
-If your current employment contract allows it, this is often the lowest-risk path. You can always go full-time once your private patient numbers justify it.
+The trade-offs: you're working harder than a single role for a while. Some employers won't allow it (check your contract for non-compete or moonlighting clauses). And patients who want a specific day with you might not be able to work around a limited schedule.
 
-## Making the Decision: A Framework
+> [!warning]
+> If you go hybrid, you need separate professional indemnity insurance and a Medicare provider number for your private work. Your employer's insurance doesn't cover you when you're seeing patients independently, and your provider number is location-specific. Sort both of these out before you see your first private patient.
 
-Instead of a pro/con list, here's a more useful way to think about it. Answer these honestly.
+If your employment contract allows it, this is the lowest-risk way to start. Go full-time once your private patient numbers justify it — and you'll have real data to base that decision on, not projections.
 
-**1. Financial runway.** Do you have 3-6 months of living expenses saved, separate from startup costs? If yes, proceed. If no, save first.
+## What Year 1 Actually Feels Like
 
-**2. Demand signal.** Have you spoken to GPs, potential referral sources, or practitioners in your area? Is there actual demand for your services, or are you assuming it? Chapter 4 covers how to test this before you commit.
+The numbers above tell you what to expect financially. Here's what to expect emotionally, because nobody talks about this part and it catches people off guard.
 
-**3. Admin tolerance.** Can you spend 1-2 hours per day on billing, email, bookkeeping, and scheduling without wanting to quit? This is the reality of solo practice.
+**Months 1-2** are oddly exciting and oddly quiet. You've got a nice clean clinic, all your systems set up, and not enough patients to fill the week. You'll wonder if you've made a mistake. You haven't — every practice starts slow.
 
-**4. Support system.** Do you have an accountant (or willing to get one), a mentor or peer network, and personal support at home? Solo practice is isolating. Having people around you who understand what you're doing makes a meaningful difference.
+**Months 3-4** are when the first GP referrals start flowing. Revenue is building but it's lumpy. A great week followed by a terrible one. The instinct is to panic during the terrible weeks. Resist it. Look at the monthly trend, not the weekly number.
 
-**5. Timeline flexibility.** Are you OK with it taking 6-12 months to reach a sustainable patient load? If you need to be fully booked within 3 months, you'll make short-term decisions (like underpricing) that hurt you long-term.
+**Months 5-8** are when most practices find their rhythm. You have regulars, your GPs know your name, and the admin systems stop feeling foreign. The income isn't where you want it yet, but you can see the trajectory.
 
-If you answered yes to at least 4 of 5, private practice is likely a good move for you. If you answered yes to 2-3, the hybrid approach is worth considering. If fewer than 2, the timing probably isn't right.
+**Months 9-12** are when the Year 1 investment starts paying off. Patient load is approaching sustainable levels. Revenue is covering costs plus your drawings. You can see what a full practice looks like from here.
 
-## What This Doesn't Cover
+> [!key-takeaway]
+> Year 1 is an investment, not a reflection of your ability. The practitioners who do best are the ones who expected it to be slow, planned their finances accordingly, and spent the quiet early weeks doing GP visits instead of staring at an empty diary.
 
-This chapter is about the decision itself. The rest of the guide covers the execution: NDIS options (Chapter 2), pricing (Chapter 3), finding clients (Chapter 4), financial management (Chapter 5), expensive mistakes to avoid (Chapter 6), and a week-by-week plan for your first 90 days (Chapter 7).
-
-If you've read this chapter and you're still in, good. The next six chapters are the playbook for doing it well.
+> [!action]
+> ## Before You Commit Checklist
+> - [ ] Calculate your total employed package (salary + super + leave) — that's the number to beat, not just salary
+> - [ ] Save 3-6 months of living expenses as a buffer, separate from startup costs
+> - [ ] Check your area for saturation — how many practices in your profession within 10km?
+> - [ ] Read your employment contract for non-compete or moonlighting clauses (relevant for hybrid approach)
+> - [ ] Talk to your accountant about business structure before registering anything (see appendix)
+> - [ ] Talk to one or two practitioners who've done the transition — ask about the emotional side, not just the logistics

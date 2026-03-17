@@ -1,181 +1,168 @@
 # Chapter 3: Pricing Your Services
 
-Pricing is the decision most new practitioners agonise over the longest and get wrong the most often. Not because the maths is hard, but because it feels personal. You're putting a dollar value on your time and your skills, and there's a voice in your head saying "who am I to charge that?"
+> [!tldr]
+> Your session fee needs to cover far more than the 30 minutes you spend with a patient. Most new practitioners underprice by $10-20/session, which compounds into thousands per year. This chapter walks you through setting a fee, understanding what patients actually pay (the gap, not your full fee), and communicating your price without flinching.
 
-This chapter covers how to set your fees, what gap fees actually mean for your patients, when bulk billing makes sense (and when it doesn't), and how to communicate your pricing without apologising for it.
+> [!key-number]
+> **$14,400/yr** — what underpricing by $15/session costs you
+> **$56.70** — the Medicare CDM rebate for a standard allied health session
+> **2–2.5x** — the multiplier between what you take home and what you need to earn
 
-## Understanding the Numbers
+When you were employed, pricing was someone else's problem. The practice set the fees, patients paid what they paid, and your salary showed up every fortnight regardless. You probably never thought about it.
 
-Before you can set a fee, you need to understand where the money goes. Here's the simplified version for a CDM session.
+In private practice, you set the fee. You communicate the fee. You deal with the patient who says "that's more than I expected." And somewhere in the back of your mind, there's a voice asking whether you're charging too much or too little, and no amount of Googling "average physio session fee Australia" makes it go away.
 
-**You charge a session fee** (let's say $120 for a 30-minute individual consult).
+That voice is normal. Pricing feels personal in a way that a salary never did. When someone accepts a salary offer, it's an institution valuing a role. When you set a session fee, it feels like you're personally deciding what your time is worth. That discomfort is why most new practitioners price too low — not because they ran the numbers wrong, but because a lower number felt safer.
 
-**The patient's Medicare rebate** under CDM is approximately $56.70 for an individual session (item 10960 for physio, similar items for other professions). This is what Medicare pays back to the patient.
+This chapter gives you a framework for setting your fee based on what it actually costs to run your practice, not what feels comfortable to say out loud.
 
-**The gap** is the difference between your fee and the rebate. In this example, $120 - $56.70 = $63.30 gap that the patient pays out of pocket.
+## How Medicare Gap Fees Work
 
-**If the patient has private health insurance** with extras cover, they may get some of that gap back from their fund. The amount varies wildly by fund and level of cover.
+Before you set a fee, you need to understand what the patient actually pays — because it's not your session fee.
 
-This matters because your fee is not what the patient pays out of pocket. The patient pays the gap. When a patient says "that's expensive," they're reacting to the gap, not your full fee. Understanding this distinction changes how you think about pricing.
+You charge $120 for a 30-minute CDM session. Medicare pays the patient back approximately $56.70 (the schedule fee for item 10960 and similar allied health items). The difference — $63.30 — is the gap. That's the patient's out-of-pocket cost.
 
-## How to Set Your Session Fee
+If the patient has private health insurance with extras cover, their fund may reimburse some of that gap too. How much depends on their fund and level of cover — it could be $10 or $40. You can't predict it and you don't need to.
 
-### Step 1: Know your costs
+> [!key-takeaway]
+> When a patient says "that's expensive," they're reacting to the gap ($63), not your full fee ($120). Most patients are fine with a $60-70 gap for a specialist health service. Understanding this distinction takes a lot of the anxiety out of pricing.
 
-Your session fee needs to cover more than just the 30 minutes you spend with the patient. It needs to cover:
+## Setting Your Fee: A Walkthrough
 
-- **Room rental** ($50-$150 per day, or $200-$600+ per week depending on location and arrangement)
-- **Insurance** (professional indemnity + public liability, ~$1,000-$2,500 per year)
-- **Software** (practice management, $0-$55+ per month)
-- **Registration** (AHPRA or equivalent, $300-$800 per year)
-- **Professional association** (optional but recommended, $300-$700 per year)
-- **Consumables** (tape, gel, needles, etc., varies by profession)
-- **Superannuation** (you're paying your own now, 11.5% of what you want to earn)
-- **Tax** (you're setting aside 25-35% depending on your income)
-- **Leave provision** (every week off costs you a full week of revenue, with ongoing expenses still running)
-- **Admin time** (20-30% of your working hours are non-billable)
+### 1. Add up what it costs to see one patient
 
-When you add all of this up, a rough rule of thumb is that you need to earn 2-2.5x what you want to take home. If you want to take home $80,000, your practice needs to generate $160,000-$200,000 in revenue.
+Your session fee doesn't just cover the time you spend with someone. It covers everything behind that time:
 
-### Step 2: Research your local market
+- **Room rental:** $50-$150/day depending on location and arrangement
+- **Insurance:** professional indemnity + public liability, roughly $1,000-$2,500/year
+- **Practice management software:** $0-$55/month (Halaxy is free for basics, Cliniko is $45/month)
+- **AHPRA registration:** $300-$800/year depending on profession
+- **Professional association:** $300-$700/year (optional, but worth it for insurance discounts and CPD)
+- **Consumables:** tape, gel, exercise equipment — varies by profession
+- **Superannuation:** 11.5% of what you want to earn, paid from your own pocket now
+- **Tax:** you're setting aside 25-35% depending on your income bracket
+- **Leave:** every week off costs a full week of revenue while expenses keep running
+- **Admin time:** about one day out of every five is non-billable (billing, bookkeeping, emails, scheduling)
 
-Call or check the websites of 5-10 practices in your area. Note their:
-- Standard session fee
-- Session length
+When you add all of this up, a rough rule of thumb: your practice needs to earn about 2–2.5x what you want to take home. If you want $80,000 in your pocket after tax, super, and expenses, you need to generate $160,000-$200,000 in gross revenue.
+
+That sounds like a lot. But at $120/session and 25 patients/week for 48 weeks, it's $144,000 — and by Year 2, most practitioners are in that range. The numbers work once your patient load is consistent. They just don't work at the bottom of the market.
+
+### 2. Look at what other practices charge in your area
+
+Spend an hour checking fees at 5-10 practices near you. Most publish their fees online. Note:
+
+- Their standard session fee and session length
 - Whether they offer CDM/Medicare billing
-- Initial consultation fee vs follow-up fee
+- The difference between their initial and follow-up rates
 
-You don't need to match the cheapest practice. You don't need to match the most expensive either. You need to understand the range so you can position yourself deliberately.
+You're not trying to match anyone. You're figuring out the range so you can position yourself deliberately within it.
 
-**A realistic fee range for CDM-pathway allied health professions in Australia (2026):**
+**Typical fee ranges for CDM-pathway allied health (Australia, 2026):**
 
 | Service | Typical Range |
 |---------|--------------|
 | Initial consultation (45-60 min) | $100-$180 |
 | Standard follow-up (30 min) | $85-$140 |
 | Extended consultation (45 min) | $120-$170 |
-| Telehealth session (30 min) | $80-$130 |
+| Telehealth (30 min) | $80-$130 |
 
-These numbers vary by profession, location (metro vs regional), and experience level. But they give you a starting point.
+These vary by profession, location (metro vs regional), and experience level. But they give you the ballpark.
 
-### Step 3: Set your fee
+> [!tip]
+> Check online health directories (HotDoc, HealthEngine) — many practices list their fees there even if their own website doesn't. This is the fastest way to get a local picture.
 
-Here's the uncomfortable truth: most new practitioners set their fees too low. They're worried about scaring patients away, so they price at the bottom of the market. Then they wonder why they're seeing 25 patients a week and barely covering costs.
+### 3. Pick a number in the middle-to-upper range
 
-**Set your fee at or slightly above the median for your area.** Not the cheapest. Not the most expensive. The middle to upper-middle range.
+Not the cheapest. Not the most expensive. The middle.
 
-Why? Because:
-- Underpricing doesn't attract more patients. It attracts price-sensitive patients who are more likely to cancel and less likely to commit to a treatment plan.
-- You can always offer a reduced gap for hardship cases. You can't easily raise fees across the board once patients are used to a low price.
-- Your fee communicates quality. Patients expect to pay a gap for specialist services. A fee that's too low makes them wonder why.
+Three reasons this matters:
 
-**The $15 rule:** If you underprice by $15 per session compared to the market median, and you see 20 patients per week for 48 weeks, you've left $14,400 on the table in your first year. That's real money. That's your holiday. That's your emergency fund. Don't give it away because you felt awkward about pricing.
+**Underpricing doesn't get you more patients.** It gets you more *price-sensitive* patients — the ones more likely to cancel, less likely to commit to a treatment plan, and first to leave when a cheaper option opens nearby.
 
-## Gap Fees: How Patients Experience Your Pricing
+**You can discount down. You can't easily go up.** Offering a reduced gap for someone in genuine hardship is easy. Raising your fee across the board after patients are used to a low price is painful. You'll agonise over it, delay it, and lose patients who feel like you've changed the deal.
 
-Your fee is $120. Medicare pays $56.70. The patient pays $63.30.
+**Your fee signals quality.** Patients expect to pay a gap for specialist health services. A fee noticeably below surrounding practices makes them wonder why, not feel grateful.
 
-Most patients are OK with this if you handle it right. Here's what matters:
+> [!warning]
+> **The $15 mistake.** If you underprice by $15/session compared to the median in your area, and you see 20 patients a week for 48 weeks, you've left **$14,400** on the table in Year 1. That's a holiday. That's three months of super. That's your emergency fund. Don't give it away because saying a slightly higher number out loud felt uncomfortable.
 
-### Before the first appointment
-- **Display your fees clearly on your website.** Don't make people call to find out how much it costs. That creates anxiety.
-- **Explain the Medicare rebate in plain English.** "Your session fee is $120. Medicare rebates approximately $56.70 under CDM, so your out-of-pocket cost is around $63."
-- **Mention private health insurance.** "If you have extras cover, you may be able to claim some of the gap from your fund."
+## What Patients Say About Price (and What to Say Back)
 
-### At the appointment
-- **Don't apologise for your fee.** "Your session today is $120" is all you need to say. Not "sorry, it's $120" or "unfortunately, we charge $120."
-- **Process payment smoothly.** Have EFTPOS ready, offer a receipt immediately, and if they need to claim from Medicare, make the process easy (direct billing through your software is ideal).
-
-### Common patient reactions and how to handle them
+This is the part your degree didn't cover. A patient questions your fee and you freeze, apologise, or over-explain. Here's what the conversations actually sound like, and how to handle them without making it weird.
 
 **"That's more than I expected."**
-"The Medicare rebate covers about half, so your out-of-pocket is around $63. Would you like to go ahead?"
+→ "Medicare covers about half, so the out-of-pocket is around $63. Would you like to go ahead?"
 
 **"Can I just get the Medicare rate?"**
-This is asking you to bulk bill. Your answer depends on your policy (covered below). If you don't bulk bill: "We don't currently offer bulk billing, but I'm happy to help you claim your rebate."
+→ They're asking you to bulk bill. "We don't offer bulk billing at the moment, but I can help you claim the Medicare rebate."
 
 **"My last physio was cheaper."**
-"Fees do vary between practices. Ours includes [session length / specific services]. If cost is a concern, we can discuss options."
+→ "Fees do vary between practices. Would you like to go ahead with the appointment?"
 
-Don't get defensive. Don't justify. State the fact and move on. Most patients who ask about price are just processing it, not trying to negotiate.
+State the fact and move on. Most patients who comment on price are processing out loud, not negotiating. The conversation feels much bigger in your head than it does to them.
 
-## Bulk Billing vs Private Fees
+> [!tip]
+> **Put your fees on your website.** Every fee. Not "call for pricing." When someone has to call to find out the cost, most of them won't — they'll book somewhere that tells them upfront. Displaying fees also means the patients who DO book have already accepted your price before they walk in. That's one less awkward conversation.
 
-Bulk billing means you accept the Medicare rebate as your full fee. The patient pays nothing out of pocket for CDM sessions.
+## Should You Bulk Bill?
 
-### When bulk billing makes sense
-- You're in a low-income area where gap fees are a genuine barrier to access
-- You're brand new and want to build a patient base quickly (short-term strategy only)
-- You're seeing high-volume group sessions where the per-patient cost is very low
+Bulk billing means accepting the Medicare rebate ($56.70 for a standard CDM session) as your full fee. The patient pays zero gap.
 
-### When bulk billing doesn't make sense (which is most of the time)
-- The Medicare rebate ($56.70 for an individual session) doesn't cover your costs. Period. If your room rental, insurance, software, and time cost more than $56.70 per session (and they almost certainly do), bulk billing means working at a loss.
-- It's very hard to transition patients from bulk billing to gap fees later. Once a patient is used to paying nothing, introducing a $60 gap feels like a massive increase.
-- Bulk billing attracts high-volume, low-engagement patients. That's not necessarily bad, but it's a different business model. Most new solo practitioners can't sustain the volume required to make bulk billing work.
+For most solo practitioners starting out, the short answer is no.
 
-**The pragmatic approach:** Set a private fee, charge a gap, and offer reduced-gap or no-gap appointments on a case-by-case basis for patients experiencing genuine financial hardship. This gives you the flexibility to help without building your entire business model around a rate that doesn't cover your costs.
+$56.70 doesn't cover your costs. Once you subtract room rental, insurance, software, and the admin time around each session, you're working at a loss on every bulk-billed appointment. You'd need extremely high volume to make it work, and high volume is exactly what you don't have in your first year.
 
-## Setting Your Initial vs Follow-Up Fees
+The other problem: it's nearly impossible to introduce a gap fee later. Once patients are used to paying nothing, a $60 gap feels enormous. You'll lose a significant chunk of your patient base when you switch.
 
-Most practices charge more for an initial consultation than a follow-up. This makes sense because an initial appointment involves:
-- Taking a full history
-- Performing a thorough assessment
-- Developing a treatment plan
-- Explaining the plan to the patient
-- Setting up their records in your system
-- Usually takes 45-60 minutes vs 30 minutes for follow-ups
+> [!key-takeaway]
+> **The practical approach:** Set a private fee, charge a gap, and keep a few spots each week where you can offer a reduced gap for patients in genuine financial hardship. This gives you the flexibility to help people without building your whole business model around a rate that doesn't cover your costs.
 
-A common structure:
-- Initial: 45-60 min, $130-$180
-- Follow-up: 30 min, $85-$130
-- Extended follow-up: 45 min, $120-$160
+The exceptions: if you're in a low-income area where gap fees are a real access barrier, or you're running high-volume group sessions where the per-patient cost is very low, bulk billing can work as a deliberate strategy. But it's a different business model — not a stepping stone to private fees.
 
-The gap between initial and follow-up shouldn't be too large. If your initial is $180 and your follow-up is $85, the drop feels dramatic and patients may question why the first appointment was so expensive.
+## Building Your Fee Schedule
 
-## Telehealth Pricing
+Fill in your numbers based on the walkthrough above. This is what goes on your website and in your patient agreement.
 
-Since COVID normalised telehealth, many practitioners offer it as part of their service. Pricing considerations:
+| Service | Your Fee | Duration |
+|---------|----------|----------|
+| Initial consultation | $ ___ | 45-60 min |
+| Standard follow-up | $ ___ | 30 min |
+| Extended follow-up | $ ___ | 45 min |
+| Telehealth consultation | $ ___ | 30 min |
+| Group session (CDM) | $ ___ per person | 60 min |
+| Home visit | $ ___ (incl. travel) | 30 min + travel |
+| Late cancellation (<24 hrs) | $ ___ | — |
 
-- **Most practitioners charge the same fee for telehealth as in-person.** Your time and expertise are the same regardless of delivery method.
-- **Some charge slightly less** (10-15% discount) because overhead is lower (no room rental for that session).
-- **The Medicare rebate for telehealth CDM sessions is the same** as in-person.
+A few things to get right:
 
-If you offer telehealth, be clear about it on your website and in your fee schedule. Don't make patients feel like they're paying full price for a "lesser" service. Frame it as a convenience option.
+**Initial vs follow-up gap.** Your initial should cost more (longer session, full assessment, treatment plan), but keep the gap proportional. $150 and $120 feels right. $180 and $90 makes patients feel like the first visit was a rip-off.
+
+**Telehealth.** Most practitioners charge the same as in-person — your time and expertise don't change because of a screen. Some discount 10-15% since overhead is lower. Either works, but be consistent.
+
+**Cancellation fee.** Charge the full session fee for cancellations with less than 24 hours' notice. State this in your patient agreement and mention it verbally at the first appointment. It's not punitive — it's a room you booked and a slot you couldn't fill. Most patients accept this without issue once you tell them upfront.
 
 ## Raising Your Fees
 
-You will need to raise your fees over time. CPI goes up, your costs go up, your experience grows. Here's how to handle it.
+You'll need to raise your fees over time. Costs go up, your experience grows, and the Medicare schedule fee gets adjusted. This is normal and every practice does it.
 
-**When to raise:** Annually is standard. January or July are common timing (aligning with financial year or calendar year).
+**When:** Once a year. January or July (aligning with the calendar or financial year).
 
-**How much:** 3-5% annually keeps you in line with inflation. Larger increases (10%+) should be reserved for when you've been significantly underpriced.
+**How much:** 3-5% keeps you in line with inflation. Larger jumps (10%+) should only happen if you've been significantly underpriced.
 
-**How to communicate it:** Give patients 4-6 weeks' notice. A brief, matter-of-fact email or notice in the practice is sufficient.
+**How to tell patients:** Give four to six weeks' notice. A brief, matter-of-fact email or notice is enough:
 
-"From [date], our session fees will increase by [amount]. The new fee for a standard consultation will be $[amount]. Medicare rebates will continue to apply for CDM patients."
+*"From [date], our session fees will increase to $[amount] for a standard consultation. Medicare rebates continue to apply for CDM patients."*
 
-No apology. No lengthy justification. It's a standard business practice.
+No apology. No justification. The patients who value what you do won't leave over a $5-10 increase. The patients who would leave over $5 were never going to be long-term patients anyway.
 
-## Your Fee Schedule: A Template
-
-Here's a practical fee schedule structure you can adapt:
-
-| Service | Fee | Duration |
-|---------|-----|----------|
-| Initial consultation | $[X] | 45-60 min |
-| Standard follow-up | $[X] | 30 min |
-| Extended follow-up | $[X] | 45 min |
-| Telehealth consultation | $[X] | 30 min |
-| Group session (CDM) | $[X] per person | 60 min |
-| Home visit | $[X] (incl. travel) | 30 min + travel |
-| DNF / Late cancellation | $[X] | — |
-
-**No-show / late cancellation fee:** Most practices charge the full session fee for cancellations with less than 24 hours' notice. Make this clear in your patient agreement and verbally at the first appointment. It's not punitive; it's a cost you've incurred (the room was booked, the time was allocated).
-
-## The Pricing Mindset
-
-Here's the thing about pricing that nobody tells you: the patients who choose you based on price are the hardest patients to retain. They'll leave for a $10 difference at the practice down the road.
-
-The patients who choose you for your expertise, your communication, your availability, your approach... those patients don't leave over a fee increase. They value what you do. Price your services for those patients.
-
-Set a fair fee that covers your costs and reflects your training. Don't apologise for it. Communicate it clearly. Review it annually. And remember: the most expensive fee in private practice is the one that's too low to sustain your business.
+> [!action]
+> ## Pricing Checklist
+> - [ ] Calculate your annual costs (room, insurance, software, registration, super, tax, leave provision)
+> - [ ] Work out your minimum session fee using the 2–2.5x take-home rule
+> - [ ] Research fees at 5-10 practices in your area (websites + HotDoc/HealthEngine)
+> - [ ] Set your initial consultation, follow-up, extended, and telehealth fees
+> - [ ] Set your cancellation policy (24 hours notice, full session fee)
+> - [ ] Put your complete fee schedule on your website — every fee, not "call us"
+> - [ ] Write your one-line response for patients who question the price (practise it out loud)
+> - [ ] Set a calendar reminder to review fees in 12 months
