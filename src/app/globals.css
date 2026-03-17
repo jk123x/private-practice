@@ -241,3 +241,9 @@ body {
   border-color: var(--color-primary);
   background: var(--color-primary-bg);
 }
+
+/* Sales pages: hide root header/footer, show inline minimal header */
+body:has([data-sales-page]) > header,
+body:has([data-sales-page]) > footer {
+  display: none !important;
+}
