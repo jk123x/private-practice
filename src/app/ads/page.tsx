@@ -358,7 +358,7 @@ function Ad1C_EPGPCCMP() {
         Provider numbers without AHPRA.
         <br />
         <span style={{ color: "rgba(255,255,255,0.75)" }}>
-          65 pages, current rules, EP-specific.
+          85 pages, current rules, EP-specific.
         </span>
       </div>
     </AdShell>
@@ -507,7 +507,7 @@ const ADS = [
     component: Ad1A_PhysioGPMP,
     headline: "The Practice Setup Guide for Physiotherapists",
     primaryText:
-      "If you're starting a physio practice and still finding references to GPMPs and TCAs — those rules changed in July 2025. The new GPCCMP system works differently: 5 sessions shared across all allied health, not per profession. Most of what's online hasn't caught up yet. This 65-page guide has.",
+      "If you're starting a physio practice and still finding references to GPMPs and TCAs — those rules changed in July 2025. The new GPCCMP system works differently: 5 sessions shared across all allied health, not per profession. Most of what's online hasn't caught up yet. This 85-page guide has.",
     cta: "Download the guide — $79",
   },
   {
@@ -538,7 +538,7 @@ const ADS = [
     component: Ad1C_EPGPCCMP,
     headline: "The Practice Setup Guide for Exercise Physiologists",
     primaryText:
-      "Medicare CDM billing changed in July 2025. If you're an EP figuring out how GPCCMP works when you're not AHPRA-registered — the ESSA accreditation pathway, the provider number process, the GST implications — there's almost nothing written for you specifically. This guide covers it. 65 pages, current rules, $79.",
+      "Medicare CDM billing changed in July 2025. If you're an EP figuring out how GPCCMP works when you're not AHPRA-registered — the ESSA accreditation pathway, the provider number process, the GST implications — there's almost nothing written for you specifically. This guide covers it. 85 pages, current rules, $79.",
     cta: "Download the guide — $79",
   },
   {

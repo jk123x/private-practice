@@ -21,8 +21,8 @@ export const product = {
   price: 79,
   currency: "AUD",
   format: "PDF",
-  pageCount: 65,
-  chapterCount: 7,
+  pageCount: 85,
+  chapterCount: 9,
   lastUpdated: "March 2026",
   guarantee: "30-day money-back guarantee",
   chapters: [
@@ -34,36 +34,48 @@ export const product = {
     },
     {
       number: 2,
+      title: "Setting Up Your Practice",
+      description:
+        "Where to practise (room rental vs lease vs home office), which practice management software to use, setting up Medicare claiming, choosing insurance, getting telehealth ready, and what equipment you actually need on day one.",
+    },
+    {
+      number: 3,
+      title: "Medicare CDM Billing in Your Practice",
+      description:
+        "Setting up your claiming workflow so it works from day one. Managing the 5-session shared cap, avoiding the billing errors that cost you real money, and talking to patients about Medicare in plain English.",
+    },
+    {
+      number: 4,
       title: "NDIS Basics for CDM Practitioners",
       description:
         "Should you register as an NDIS provider? How plan management types affect when you get paid. The GST complications for non-AHPRA professions. What registration costs and whether it's worth it when you're starting out.",
     },
     {
-      number: 3,
+      number: 5,
       title: "Pricing Your Services",
       description:
         "How to set your fee when everyone gives you a different number. The gap fee maths, when bulk billing makes sense (rarely), and how to tell patients your price without apologising.",
     },
     {
-      number: 4,
+      number: 6,
       title: "Finding Your First Clients",
       description:
         "How to walk into a GP clinic when you've never done it before. What to say, what to bring, how to follow up so they remember you. Plus the directories worth listing on and the ones that waste your money.",
     },
     {
-      number: 5,
+      number: 7,
       title: "Financial Foundations",
       description:
         "Setting aside tax when nobody's withholding it for you. Paying your own super. Budgeting when your income is $2,500 one week and $900 the next. The bank accounts to set up before you see your first patient.",
     },
     {
-      number: 6,
+      number: 8,
       title: "Common Mistakes & What They Cost",
       description:
-        "Ten mistakes with real dollar figures. The $14,400/year underpricing mistake. The $5,000 restructuring mistake. The insurance gap that could end your career. Each one with what it costs and how to avoid it.",
+        "Ten mistakes with real dollar figures. The session cap surprise, the lease you signed too early, the telehealth you never set up. Each one with what it costs and how to avoid it.",
     },
     {
-      number: 7,
+      number: 9,
       title: "Your First 90 Days",
       description:
         "Week by week: how many patients to expect, when to visit GPs, what to set up and in what order. With benchmarks at 30, 60, and 90 days so you know if you're on track.",
@@ -72,7 +84,7 @@ export const product = {
   appendix: {
     title: "Quick Reference Appendix",
     description:
-      "Key points from the four free reference guides (business structure, CDM billing, provider numbers, practice costs) with links to the full versions.",
+      "Software comparison table, insurance checklist, first-30-days admin calendar, and summaries of the four free reference guides with links to the full versions.",
   },
   freeGuides: [
     "What sole trader vs Pty Ltd means",
@@ -82,6 +94,8 @@ export const product = {
   ],
   paidTopics: [
     "Should you go private? A side-by-side income comparison for Year 1",
+    "Where to practise, which software to use, and how to set up Medicare claiming",
+    "How CDM billing works in your practice: the 5-session cap, common errors, patient conversations",
     "NDIS: should you register, and what it costs if you don't",
     "What to charge per session, with the maths worked through",
     "How to get GPs referring to you when you know zero GPs",
@@ -98,7 +112,7 @@ export const salesPages: Record<string, SalesPageData> = {
     practitionerTitle: "physiotherapist",
     metaTitle: "The Practice Setup Guide for Physiotherapists | $79 AUD",
     metaDescription:
-      "65-page guide to starting your physio practice in Australia. Medicare billing (updated for GPCCMP), pricing, GP referrals, and a 90-day action plan. $79.",
+      "85-page guide to starting your physio practice in Australia. Medicare billing (updated for GPCCMP), pricing, GP referrals, and a 90-day action plan. $79.",
     headline: "You can diagnose a rotator cuff tear. Can you set a session fee?",
     subheadline:
       "What it costs, what to charge, how to get GPs referring to you, and a week-by-week plan for your first 90 days. Updated for the July 2025 Medicare changes.",
@@ -122,7 +136,7 @@ export const salesPages: Record<string, SalesPageData> = {
       {
         question: "What format is the guide?",
         answer:
-          "65-page PDF. Download link immediately after purchase.",
+          "85-page PDF. Download link immediately after purchase.",
       },
       {
         question: "Is this up to date with the GPCCMP changes?",
@@ -149,7 +163,7 @@ export const salesPages: Record<string, SalesPageData> = {
     metaTitle:
       "The Practice Setup Guide for Exercise Physiologists | $79 AUD",
     metaDescription:
-      "65-page guide to starting your EP practice in Australia. NDIS, Medicare as a non-AHPRA profession, GST, GP referrals, and a 90-day plan. $79.",
+      "85-page guide to starting your EP practice in Australia. NDIS, Medicare as a non-AHPRA profession, GST, GP referrals, and a 90-day plan. $79.",
     headline:
       "Every business guide is written for physios. This one is for EPs.",
     subheadline:
@@ -174,7 +188,7 @@ export const salesPages: Record<string, SalesPageData> = {
       {
         question: "What format is the guide?",
         answer:
-          "65-page PDF. Download link immediately after purchase.",
+          "85-page PDF. Download link immediately after purchase.",
       },
       {
         question: "Is this up to date with the GPCCMP changes?",

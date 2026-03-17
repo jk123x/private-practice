@@ -34,11 +34,12 @@ SEO-driven content site selling digital guides to allied health professionals st
 - Meta Pixel component ready but needs NEXT_PUBLIC_META_PIXEL_ID env var
 
 ## Paid Product
-- "The Allied Health Practice Setup Guide" - $79 AUD, 65-page PDF
-- 7 chapters + appendix, covering decisions/strategy (not the same as free reference guides)
+- "The Allied Health Practice Setup Guide" - $79 AUD, ~85-page PDF
+- 9 chapters + appendix, covering setup, decisions, strategy, and first 90 days
+- Ch1: Financial Reality, Ch2: Setting Up, Ch3: Medicare CDM, Ch4: NDIS, Ch5: Pricing, Ch6: Finding Clients, Ch7: Financial Foundations, Ch8: Common Mistakes, Ch9: First 90 Days
 - Two sales pages: /buy/physiotherapy and /buy/exercise-physiology (same product, profession-specific marketing)
 - Success/download page at /purchase/success (verifies Stripe session)
-- Guide content drafts in content/guide/*.md - FIRST DRAFTS, need review for voice and accuracy
+- Guide content drafts in content/guide/*.md - need review for voice and accuracy
 
 ## Env Vars (beyond Kit)
 - STRIPE_SECRET_KEY, STRIPE_PUBLISHABLE_KEY, STRIPE_PRICE_ID, STRIPE_WEBHOOK_SECRET

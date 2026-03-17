@@ -1,12 +1,90 @@
 # Quick Reference Appendix
 
-This appendix summarises the four free reference guides on privatepracticeguide.com.au. If you need a quick refresher on any of these topics, the key points are below. For the full detail, follow the links.
+## Practice Management Software Comparison
 
-## Business Structure
+| Feature | Halaxy | Cliniko | Nookal | CorePlus |
+|---------|--------|---------|--------|----------|
+| **Monthly cost** | Free (core) | $45/user | $55/month | $5–$45/user |
+| **Medicare claiming** | Direct (built-in) | Via Tyro/Easyclaim | Direct (built-in) | Direct (built-in) |
+| **NDIS invoicing** | Yes | Basic | Yes | Strong |
+| **Online booking** | Yes | Via integration | Yes | Yes |
+| **Telehealth** | Built-in video | Built-in video | Via integration | Via integration |
+| **Clinical notes** | Templates + custom | Strong templates | Templates + custom | Basic templates |
+| **Multi-location** | Yes | Yes | Strong | Yes |
+| **Best for** | Solo starting out | Physio, established | Multi-practitioner | Budget, NDIS-heavy |
+| **Free trial** | Free tier (ongoing) | 30 days | 30 days | 14 days |
+
+**Recommendation for starting out:** Halaxy. Free core product, direct Medicare claiming, NDIS support, online booking, and built-in telehealth. Upgrade or switch once you know which features matter to you.
+
+## Insurance Checklist
+
+Before signing any insurance policy, check these:
+
+| Item | What to check | Why it matters |
+|------|--------------|----------------|
+| **Coverage level** | Minimum $5M PI; $10-20M recommended | Difference in premium is often only $200-$500/yr |
+| **Scope of practice** | Does it cover everything you do? | Dry needling, pilates, hydro, telehealth, home visits need explicit coverage |
+| **Public liability** | Separate policy or add-on | Covers patient/visitor injuries on premises |
+| **Run-off cover** | Does it cover claims after you leave/switch? | Protects you for past incidents after policy ends |
+| **Excess** | What's your out-of-pocket per claim? | $500-$1,000 is standard and manageable |
+| **Retroactive date** | When does cover begin? | Important if you've practiced elsewhere recently |
+| **Exclusions** | What ISN'T covered? | Read the full document, not just the summary |
+
+**Where to get it:** Your professional association's group scheme is usually cheapest and most tailored. Compare with at least one direct quote (BizCover, Guild Insurance) to confirm.
+
+## First 30 Days Admin Calendar
+
+A suggested order for the admin tasks that need to happen around your clinical work in the first month.
+
+### Before opening (2-4 weeks prior)
+- [ ] Business structure registered (sole trader or Pty Ltd)
+- [ ] ABN obtained
+- [ ] Business bank account opened
+- [ ] Tax savings account opened and labelled
+- [ ] Accountant engaged
+- [ ] Professional indemnity insurance active
+- [ ] Public liability insurance active
+- [ ] Room rental agreement signed
+- [ ] Medicare provider number applied for (allow 4-6 weeks)
+- [ ] PRODA account set up
+- [ ] Practice management software chosen and configured
+- [ ] Medicare claiming configured and test claim run
+- [ ] Patient consent forms and cancellation policy ready
+- [ ] Simple website live with fees displayed
+- [ ] Google Business Profile created
+
+### Week 1
+- [ ] See first patients
+- [ ] Visit 3-4 GP clinics (intro + info sheet)
+- [ ] Set up directory listings (Healthdirect, professional association, HotDoc)
+- [ ] Set up accounting software (Xero or MYOB)
+- [ ] Start super contributions
+- [ ] Send first GP report (same day as first CDM initial assessment)
+- [ ] Test your telehealth setup with a friend or colleague
+
+### Week 2
+- [ ] Visit 3-4 more GP clinics
+- [ ] First weekly bookkeeping session (15 min: receipts, categorise transactions)
+- [ ] Set up NDIS invoicing templates (if applicable)
+- [ ] Connect with 1-2 local allied health practitioners in other professions
+- [ ] Ask your first satisfied patient for a Google review
+
+### Week 3
+- [ ] Visit remaining GP clinics (aim for 10-15 total by end of month)
+- [ ] Follow up with clinics from week 1 (phone call or drop-in)
+- [ ] Review first 2 weeks: revenue, patients seen, cancellation rate
+- [ ] Tell your personal and professional network you've opened
+
+### Week 4
+- [ ] Month-end numbers: total revenue, total expenses, patients seen, average fee
+- [ ] Review cash flow: are tax transfers happening? Super contributions?
+- [ ] Identify busiest and quietest days/times
+- [ ] 2-3+ Google reviews in place
+- [ ] Plan GP outreach for month 2 (deepen existing relationships, visit any missed clinics)
+
+## Business Structure Summary
 
 **Full guide:** privatepracticeguide.com.au/guides/business-structure
-
-Most new practitioners start as a sole trader. It's simpler, cheaper to set up, and appropriate when you're testing whether private practice works for you.
 
 | Factor | Sole Trader | Pty Ltd |
 |--------|------------|---------|
@@ -22,7 +100,7 @@ Most new practitioners start as a sole trader. It's simpler, cheaper to set up, 
 
 **Key steps:** Register an ABN (free, immediate), register a business name if it's different from your personal name ($39/1yr or $92/3yr via ASIC), open a business bank account.
 
-## Medicare CDM Billing
+## Medicare CDM Billing Summary
 
 **Full guide:** privatepracticeguide.com.au/guides/cdm-billing
 
@@ -42,7 +120,7 @@ The old GPMP/TCA system was replaced by GPCCMP (GP Chronic Condition Management 
 - Telehealth sessions attract the same rebate as in-person
 
 > [!warning]
-> The 5-session cap is shared across ALL allied health providers. If a patient has seen a physio for 3 sessions and then comes to you, they have 2 sessions remaining for the calendar year, not 5. Check with the patient or their GP before assuming you have full allocation.
+> The 5-session cap is shared across ALL allied health providers. If a patient has seen a physio for 3 sessions and then comes to you, they have 2 sessions remaining for the calendar year, not 5. Ask at the first appointment.
 
 **Common billing mistakes:** billing without a valid referral, exceeding the 5-session cap, using the wrong item number for your profession, not meeting the 20-minute minimum.
 
@@ -66,8 +144,6 @@ You need a Medicare provider number to bill CDM services. The number is tied to 
 ## Practice Costs
 
 **Full guide:** privatepracticeguide.com.au/guides/practice-costs
-
-Total startup costs for a solo practice range from $5,000 to $30,000 depending on your profession, location, and setup.
 
 **Mandatory costs (everyone):**
 

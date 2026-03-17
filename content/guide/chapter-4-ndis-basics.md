@@ -1,4 +1,4 @@
-# Chapter 2: NDIS Basics for CDM Practitioners
+# Chapter 4: NDIS Basics for CDM Practitioners
 
 > [!tldr]
 > You probably don't need to register as an NDIS provider right away. Most participants (60-70%) are plan-managed or self-managed, so they can see you whether you're registered or not. Registration costs $2K-5K in audit fees and adds real compliance work. Start unregistered, register later if your NDIS caseload grows enough to justify it.

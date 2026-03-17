@@ -1,4 +1,4 @@
-# Chapter 5: Financial Foundations
+# Chapter 7: Financial Foundations
 
 > [!tldr]
 > Nobody withholds tax for you anymore. You need to set aside 25-30% of your net income for tax, pay your own super, and learn to budget around income that moves around. Get a dedicated business bank account, a separate tax savings account, and an accountant before you see your first patient.
@@ -46,7 +46,7 @@ Either way, you need to be setting money aside for tax with every payment you re
 
 If your annual revenue is above $75,000, you have to register for GST. Below that, it's optional.
 
-For CDM practitioners, most of your clinical services are GST-free (medical services by registered health practitioners). This means you might not hit the GST threshold even with gross revenue above $75K, because GST-free income doesn't count toward the threshold. But some things do attract GST: product sales, some services by non-AHPRA professions (EPs, see Chapter 2), and room rental income if you sub-let.
+For CDM practitioners, most of your clinical services are GST-free (medical services by registered health practitioners). This means you might not hit the GST threshold even with gross revenue above $75K, because GST-free income doesn't count toward the threshold. But some things do attract GST: product sales, some services by non-AHPRA professions (EPs, see Chapter 4), and room rental income if you sub-let.
 
 If you're registered for GST, you lodge a BAS quarterly. It reports your GST collected, GST paid on business expenses, and your PAYG income tax instalments. Your accounting software handles the preparation; your accountant reviews and lodges it. Don't try to do BAS manually unless you're confident in the process.
 

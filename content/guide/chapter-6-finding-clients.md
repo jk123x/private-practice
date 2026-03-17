@@ -1,4 +1,4 @@
-# Chapter 4: Finding Your First Clients
+# Chapter 6: Finding Your First Clients
 
 > [!tldr]
 > GPs are where your patients come from. For CDM practitioners, the whole chain starts with a GP creating a GPCCMP and referring the patient to you. Visit 10-15 clinics in your first month, send a solid report after every initial assessment, and referrals build from there. Directories, community talks, your website? Supporting cast.
@@ -66,6 +66,21 @@ A single GP typically generates 1-3 CDM referrals per month for any given allied
 
 You don't need hundreds of GP contacts. You need 10-15 good ones.
 
+### For exercise physiologists: getting GPs to understand what you do
+
+If you're an EP, the GP outreach playbook above has an extra step. Most GPs know what a physio does. Many don't know what an exercise physiologist does, or they think you're a personal trainer with a health degree. That's not a criticism of GPs. It's a reflection of how new EP as a profession is in the allied health landscape, and it means your intro needs to do more work.
+
+When you visit a GP clinic, your info sheet and conversation need to answer the question the GP is already thinking: "Why would I refer to you instead of a physio?"
+
+The answer is scope and specialisation. EPs work with chronic and complex conditions where exercise is a clinical intervention, not just rehab. Diabetes management, cardiac rehabilitation, mental health exercise programs, cancer recovery, obesity and metabolic conditions. For these patient populations, an EP is the appropriate referral, not a physio.
+
+Your intro might sound like: "I'm an accredited exercise physiologist. I work with patients managing chronic conditions like diabetes, heart disease, and obesity, using exercise as part of their treatment plan. If you have patients on GPCCMPs with those kinds of conditions, I'd be a good fit for their allied health referral."
+
+Keep your info sheet specific to the conditions you treat. "Exercise physiology" as a title doesn't tell a GP much. "Exercise-based management of type 2 diabetes, cardiovascular disease, and chronic pain" tells them exactly which patients to send your way.
+
+> [!tip]
+> Relationships with diabetes educators and cardiac rehab programs in your area are gold for EPs. These professionals see the exact patients who need you, and they're often looking for community-based providers to refer to once their program ends. Introduce yourself to your local hospital's outpatient rehab coordinator.
+
 ## Directories: Set and Check Periodically
 
 Online directories are background marketing. You set them up, and they bring in a trickle of patients who are actively searching for your services. They won't fill your diary, but they're worth the couple of hours to set up.
@@ -103,7 +118,7 @@ Don't spend hours on content creation. One or two posts per week on topics relev
 
 **Letterbox drops.** People who need an allied health professional ask their GP, not their letterbox. Extremely low return.
 
-**Discounting to attract patients.** "First session free" or deep discounts attract bargain-seekers, not committed patients. It devalues your service from the start and you'll struggle to move them to your real price. Chapter 3 covers why underpricing hurts you.
+**Discounting to attract patients.** "First session free" or deep discounts attract bargain-seekers, not committed patients. It devalues your service from the start and you'll struggle to move them to your real price. Chapter 5 covers why underpricing hurts you.
 
 ## The Realistic Timeline
 

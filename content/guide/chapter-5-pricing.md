@@ -1,4 +1,4 @@
-# Chapter 3: Pricing Your Services
+# Chapter 5: Pricing Your Services
 
 > [!tldr]
 > Your session fee needs to cover way more than the 30 minutes you spend with a patient. Most new practitioners underprice by $10-20/session, which compounds into thousands per year. This chapter walks you through setting a fee, understanding what patients pay out of pocket (the gap, not your full fee), and saying your price out loud without flinching.

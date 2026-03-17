@@ -13,12 +13,14 @@ const GUIDE_DIR = path.join(process.cwd(), "content/guide");
 const chapters = [
   { file: "00-introduction.md", label: "Intro" },
   { file: "chapter-1-the-decision.md", label: "1. Financial Reality" },
-  { file: "chapter-2-ndis-basics.md", label: "2. NDIS Basics" },
-  { file: "chapter-3-pricing.md", label: "3. Pricing" },
-  { file: "chapter-4-finding-clients.md", label: "4. Finding Clients" },
-  { file: "chapter-5-financial-foundations.md", label: "5. Financial Foundations" },
-  { file: "chapter-6-common-mistakes.md", label: "6. Common Mistakes" },
-  { file: "chapter-7-first-90-days.md", label: "7. First 90 Days" },
+  { file: "chapter-2-setting-up.md", label: "2. Setting Up" },
+  { file: "chapter-3-medicare-cdm.md", label: "3. Medicare CDM" },
+  { file: "chapter-4-ndis-basics.md", label: "4. NDIS Basics" },
+  { file: "chapter-5-pricing.md", label: "5. Pricing" },
+  { file: "chapter-6-finding-clients.md", label: "6. Finding Clients" },
+  { file: "chapter-7-financial-foundations.md", label: "7. Financial Foundations" },
+  { file: "chapter-8-common-mistakes.md", label: "8. Common Mistakes" },
+  { file: "chapter-9-first-90-days.md", label: "9. First 90 Days" },
   { file: "appendix-quick-reference.md", label: "Appendix" },
 ];
 

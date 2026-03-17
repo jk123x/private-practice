@@ -1,4 +1,4 @@
-# Chapter 7: Your First 90 Days
+# Chapter 9: Your First 90 Days
 
 > [!tldr]
 > A week-by-week plan from an empty diary to 18-22 patients per week. The quiet first few weeks are normal. Use them for GP visits, not worrying. By month three, if you've done the outreach, you'll have a functioning practice with steady referrals coming in.
@@ -143,13 +143,13 @@ At the end of week 12, do a full quarterly review. This is important because it'
 
 Not every practice hits these numbers on schedule. If you're behind, the cause is almost always one of a few things.
 
-**Referrals aren't coming.** Have you visited enough clinics? At least 10-15? Have you followed up? Are you sending reports after initial assessments? The most common cause is either not enough outreach or not enough follow-up communication. Go back to Chapter 4 and work the GP playbook more systematically.
+**Referrals aren't coming.** Have you visited enough clinics? At least 10-15? Have you followed up? Are you sending reports after initial assessments? The most common cause is either not enough outreach or not enough follow-up communication. Go back to Chapter 6 and work the GP playbook more systematically.
 
 **Patients aren't rebooking.** Are you explaining treatment plans clearly at the first session? Do patients understand why they need to come back and roughly how many sessions to expect? Setting expectations at the initial assessment ("I'd recommend we do four weekly sessions and then reassess") gives people a reason to book the next one.
 
 **Costs are too high relative to revenue.** Look at your room rental first. It's probably your biggest expense. Can you rent fewer days to start? Share space? Also check your software subscriptions. Are you paying for features you don't use?
 
-**You're burning out.** You're probably doing too much admin yourself (see Chapter 6, mistake 8). What can you outsource this month? And check your schedule: back-to-back patients with no breaks isn't sustainable. Build in 10-15 minutes between sessions and a real lunch break.
+**You're burning out.** You're probably doing too much admin yourself (see Chapter 8, mistake 8). What can you outsource this month? And check your schedule: back-to-back patients with no breaks isn't sustainable. Build in 10-15 minutes between sessions and a real lunch break.
 
 ## Beyond 90 Days
 
