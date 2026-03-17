@@ -167,7 +167,7 @@ export const salesPages: Record<string, SalesPageData> = {
     headline:
       "Every business guide is written for physios. This one is for EPs.",
     subheadline:
-      "NDIS registration decisions, Medicare CDM billing, the GST trap for non-AHPRA professions, getting GPs to understand what you do, and a 90-day plan for building your practice.",
+      "NDIS registration decisions, Medicare billing as a non-AHPRA profession, getting GPs to understand what you do, and a 90-day plan for building your practice.",
     problemParagraphs: [
       "The business guides that exist for physios and podiatrists don't exist for you. And the generic allied health advice doesn't cover the things that are different for EPs: the GST rules, the ESSA accreditation pathway for Medicare, the NDIS registration decision, or the fact that half the GPs in your area aren't sure what an accredited exercise physiologist does.",
       "You're probably trying to figure out whether to register as an NDIS provider (and what it costs if you don't), how the GST exemption works when you're not AHPRA-registered, and how to explain to a GP why they should be referring CDM patients to you instead of the physio down the road.",
