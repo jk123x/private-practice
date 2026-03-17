@@ -105,7 +105,7 @@ export default function CDMBillingGuidePage() {
             If you&apos;re an allied health professional in private practice, Medicare CDM (Chronic Disease Management) billing
             is probably the single most important revenue pathway you need to understand. It&apos;s how your patients access
             Medicare-subsidised sessions with you, and getting it right is the difference between a smooth claims process
-            and rejected claims, confused patients, and money left on the table.
+            and rejected claims, confused patients, and revenue you should have collected.
           </p>
 
           <p>
@@ -457,7 +457,7 @@ export default function CDMBillingGuidePage() {
 
           <p>
             You see a patient, they tell you their GP has &ldquo;done the paperwork&rdquo;, and you bill
-            Medicare. But if the GPCCMP wasn&apos;t actually completed before you provided the service, that
+            Medicare. But if the GPCCMP wasn&apos;t completed before you provided the service, that
             claim is invalid. Medicare can (and does) audit these. The fix is simple: always sight the referral
             before the first appointment, and confirm it references a GPCCMP.
           </p>
@@ -757,8 +757,8 @@ export default function CDMBillingGuidePage() {
 
           <p>
             Get these right and CDM billing becomes a reliable, predictable part of your revenue. Get them
-            wrong and you&apos;re chasing rejected claims, dealing with compliance issues, and leaving money
-            on the table with every missed session.
+            wrong and you&apos;re chasing rejected claims, dealing with compliance issues, and losing income
+            on sessions you already delivered.
           </p>
 
           <p>

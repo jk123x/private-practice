@@ -64,7 +64,7 @@ export default function ProviderNumberGuidePage() {
             your number.
           </p>
 
-          <h2>What a provider number actually is</h2>
+          <h2>What a provider number is</h2>
 
           <p>
             A Medicare provider number is a unique identifier that links you (the practitioner) to a
@@ -318,7 +318,7 @@ export default function ProviderNumberGuidePage() {
 
           <p>
             This matters because if you bill Medicare using the wrong provider number for the
-            location where the service actually happened, the claim can be rejected or flagged.
+            location where the service was delivered, the claim can be rejected or flagged.
             You need to make sure your practice management software is set up to use the correct
             provider number for each location.
           </p>

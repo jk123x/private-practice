@@ -120,7 +120,7 @@ export default function BusinessStructurePage() {
 
           <p>
             Plus the Medicare levy of 2% on top. At lower incomes, sole trader
-            is actually tax-advantaged because of the tax-free threshold ($18,200)
+            is tax-advantaged because of the tax-free threshold ($18,200)
             and the lower marginal rates. The company tax rate is a flat 25%, so
             sole trader is better until your taxable income gets well above $120K
             or so.
@@ -350,7 +350,7 @@ export default function BusinessStructurePage() {
             services are GST-free (which most allied health clinical services
             are), you still do not charge GST on those. But you do get to claim
             GST credits on your business expenses. For many solo practitioners,
-            voluntary GST registration can actually save money once your
+            voluntary GST registration can save money once your
             business expenses are significant enough.
           </p>
 
@@ -496,7 +496,7 @@ export default function BusinessStructurePage() {
           <h2>The most common path for starting out</h2>
 
           <p>
-            Here is the honest answer: most solo allied health practitioners
+            Here is the short version: most solo allied health practitioners
             start as a sole trader, and that is the right call for most people.
           </p>
 

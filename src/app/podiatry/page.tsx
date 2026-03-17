@@ -31,8 +31,7 @@ export default function PodiatryPage() {
       <section className="py-16 sm:py-24">
         <div className="container-narrow">
           <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-[var(--color-ink)] leading-tight">
-            You spent {profession.trainingYears} years learning to treat
-            patients. Nobody taught you how to run a business.
+            Autoclaves, treatment chairs, surgical instruments. Podiatry has the highest equipment costs in allied health, and you&apos;re billing CDM from week one.
           </h2>
           <div className="mt-8 space-y-5 text-[var(--color-ink-light)] leading-relaxed">
             <p>
@@ -47,7 +46,7 @@ export default function PodiatryPage() {
               half working in private practice, it&apos;s a smaller market than physio
               but a deeply underserved one when it comes to business guidance.
               The APodA provides clinical and professional resources, but the
-              practical how-to of actually setting up and running a practice?
+              practical how-to of setting up and running a practice?
               That&apos;s largely left to you to figure out.
             </p>
             <p>

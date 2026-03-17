@@ -57,20 +57,20 @@ export default function HomePage() {
               Updated for GPCCMP 2025
             </p>
             <h1 className="font-serif text-4xl sm:text-5xl lg:text-[3.5rem] font-semibold text-[var(--color-ink)] leading-[1.1]">
-              The business side of
+              Medicare, pricing,
               <br />
-              private practice.
+              GP referrals, tax.
               <br />
               <span className="text-[var(--color-accent)] italic">
-                Finally explained.
+                All in one place.
               </span>
             </h1>
           </div>
           <div className="hero-subtitle">
             <p className="mt-7 text-lg sm:text-xl text-[var(--color-ink-light)] leading-relaxed max-w-lg">
-              Plain-English guides for allied health professionals starting
-              private practice in Australia. No jargon. No fluff. Just the
-              stuff you actually need to know.
+              Guides for allied health professionals starting private practice
+              in Australia. Real numbers, current rules, and the specific
+              steps that Services Australia PDFs won&apos;t walk you through.
             </p>
           </div>
           <div className="hero-ctas mt-9 flex flex-wrap gap-4">
@@ -155,20 +155,22 @@ export default function HomePage() {
           </div>
           <div className="max-w-2xl mx-auto space-y-6 text-[var(--color-ink-light)] leading-relaxed">
             <p>
-              You spent years learning to be a clinician. Anatomy, pathology,
-              evidence-based practice. Then one day you decided to go out on your
-              own and discovered that nobody taught you how to actually{" "}
-              <em className="font-serif">run a business</em>.
+              There&apos;s a moment, usually late at night, where you&apos;re
+              three tabs deep into a Services Australia PDF and you realise you
+              have no idea whether you need a sole trader ABN or a Pty Ltd, what
+              a GPCCMP referral looks like, or what to charge for a 45-minute
+              consult. You&apos;re a qualified clinician and you feel completely
+              lost.
             </p>
             <p>
-              The information exists, scattered across Services Australia PDFs,
-              professional association member portals, legal firm blog posts, and
-              Facebook groups. But nowhere is it collected into one clear,
-              practical resource that just tells you what to do and in what order.
+              The information exists. It&apos;s scattered across government
+              sites, professional association member portals, legal firm blog
+              posts, and Facebook groups with conflicting advice. Piecing it
+              together takes weeks, and half of it is outdated.
             </p>
             <p>
-              That is what this site is. Every guide is written in plain English,
-              kept current (Medicare CDM billing changed in July 2025 with the
+              This site collects it into one resource. Every guide is kept
+              current (Medicare CDM billing changed in July 2025 with the
               switch from GPMP/TCA to GPCCMP, and most existing content hasn&apos;t
               caught up), and focused on the specific needs of allied health
               professionals billing through the CDM pathway.

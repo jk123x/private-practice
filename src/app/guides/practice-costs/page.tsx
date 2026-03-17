@@ -35,8 +35,8 @@ export default function PracticeCostsGuide() {
           <p className="mt-5 text-lg text-[var(--color-ink-light)] leading-relaxed max-w-2xl">
             Real dollar figures for every cost you will hit in your first year of
             private practice. Insurance, software, room rental, registration fees,
-            and the hidden expenses nobody talks about until you are already paying
-            them.
+            and the overlooked expenses that only show up once you are already
+            writing cheques.
           </p>
         </div>
 
@@ -98,7 +98,7 @@ export default function PracticeCostsGuide() {
           <p>
             You need somewhere to manage bookings, client records, invoicing, and
             Medicare claims. The good news is that the range here is enormous, and
-            there is a genuinely usable free option.
+            there is a solid free option that works well.
           </p>
 
           <div className="not-prose my-8 overflow-x-auto">
@@ -138,7 +138,7 @@ export default function PracticeCostsGuide() {
           <p>
             If you are starting solo and watching your costs, Halaxy on the free
             tier is hard to beat. You can always upgrade later when you know what
-            features you actually need. Don&apos;t pay for software complexity
+            features you need. Don&apos;t pay for software complexity
             you won&apos;t use in your first year.
           </p>
 
@@ -444,12 +444,11 @@ export default function PracticeCostsGuide() {
           </p>
 
           {/* ---- Section 4: Hidden Costs ---- */}
-          <h2>Hidden costs nobody warns you about</h2>
+          <h2>The costs that don&apos;t show up on any invoice</h2>
           <p>
             The costs above are the ones you can put in a spreadsheet. The ones
-            below are the ones that quietly erode your income and catch first-year
-            practitioners off guard. They don&apos;t show up on any invoice, but
-            they are real.
+            below quietly erode your income and catch first-year practitioners
+            off guard. They are real, and they add up fast.
           </p>
 
           <h3>No-shows: 5 to 15 percent of your bookings</h3>
@@ -529,7 +528,7 @@ export default function PracticeCostsGuide() {
             six months. That is time you are not billing clients.
           </p>
           <p>
-            The honest reality: most allied health practitioners get the bulk of
+            In practice, most allied health practitioners get the bulk of
             their clients through GP referrals and word of mouth. Building those
             relationships takes time and effort, not big marketing budgets. But
             the time cost is real.

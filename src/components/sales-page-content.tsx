@@ -64,7 +64,7 @@ export function SalesPageContent({ professionKey }: SalesPageContentProps) {
       <section className="py-16 sm:py-24">
         <div className="container-narrow">
           <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-[var(--color-ink)] leading-tight">
-            You know the clinical side. Nobody taught you this part.
+            The clinical work you&apos;re ready for. The business side, less so.
           </h2>
           <div className="mt-8 space-y-5 text-[var(--color-ink-light)] leading-relaxed">
             {data.problemParagraphs.map((p, i) => (
@@ -81,8 +81,8 @@ export function SalesPageContent({ professionKey }: SalesPageContentProps) {
             What&apos;s inside
           </h2>
           <p className="text-[var(--color-ink-muted)] mb-8">
-            {product.chapterCount} chapters. Each one covers a specific decision
-            or skill your degree didn&apos;t.
+            {product.chapterCount} chapters covering the decisions and numbers
+            you need before you open your doors.
           </p>
           <div className="space-y-4">
             {product.chapters.map((chapter) => (
@@ -240,11 +240,11 @@ export function SalesPageContent({ professionKey }: SalesPageContentProps) {
         </div>
         <div className="container-narrow relative text-center">
           <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-white leading-tight">
-            The guide your degree didn&apos;t include.
+            {product.pageCount} pages. From pricing to your first 90 days.
           </h2>
           <p className="mt-4 text-white/70 max-w-lg mx-auto leading-relaxed">
-            Medicare billing to your first 90 days. {product.pageCount} pages
-            covering everything between qualifying and opening your doors.
+            Medicare billing, session fees, GP referrals, tax, and a
+            week-by-week plan for getting your practice off the ground.
           </p>
           <div className="mt-8">
             <CheckoutButton

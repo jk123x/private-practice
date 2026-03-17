@@ -10,7 +10,7 @@ Most new practitioners start as a sole trader. It's simpler, cheaper to set up, 
 
 | Factor | Sole Trader | Pty Ltd |
 |--------|------------|---------|
-| Setup cost | ~$0 (free ABN) | $500–$1,500 (ASIC + legal) |
+| Setup cost | ~$0 (free ABN) | $500-$1,500 (ASIC + legal) |
 | Annual cost | Minimal | $300+ ASIC fee + higher accounting |
 | Tax rate | Personal marginal rate (up to 45%) | 25% company tax |
 | Asset protection | None (personal assets at risk) | Limited liability |
@@ -50,7 +50,7 @@ The old GPMP/TCA system was replaced by GPCCMP (GP Chronic Condition Management 
 
 **Full guide:** privatepracticeguide.com.au/guides/provider-number
 
-You need a Medicare provider number to bill CDM services. The number is tied to a physical location — you need a separate one for each place you practice.
+You need a Medicare provider number to bill CDM services. The number is tied to a physical location, so you need a separate one for each place you practice.
 
 **Steps:**
 1. Set up a PRODA account (identity verification with Services Australia)
@@ -73,25 +73,25 @@ Total startup costs for a solo practice range from $5,000 to $30,000 depending o
 
 | Item | Cost |
 |------|------|
-| AHPRA registration (or equivalent) | $300–$800/yr |
-| Professional indemnity insurance | $500–$1,500/yr |
-| Public liability insurance | $300–$600/yr |
-| Professional association | $300–$700/yr |
-| ABN + business name | $0–$92 |
-| **Total** | **~$1,500–$3,700** |
+| AHPRA registration (or equivalent) | $300-$800/yr |
+| Professional indemnity insurance | $500-$1,500/yr |
+| Public liability insurance | $300-$600/yr |
+| Professional association | $300-$700/yr |
+| ABN + business name | $0-$92 |
+| **Total** | **~$1,500-$3,700** |
 
 **Ongoing monthly costs:**
 
 | Item | Range |
 |------|-------|
-| Room rental | $800–$2,400 |
-| Practice management software | $0–$55 |
-| Accounting software | $25–$65 |
-| Internet/phone | $80–$150 |
-| Consumables | $50–$300 |
-| Cleaning | $100–$300 |
-| Accountant/bookkeeper | $150–$400 |
-| **Total** | **~$1,200–$3,700/month** |
+| Room rental | $800-$2,400 |
+| Practice management software | $0-$55 |
+| Accounting software | $25-$65 |
+| Internet/phone | $80-$150 |
+| Consumables | $50-$300 |
+| Cleaning | $100-$300 |
+| Accountant/bookkeeper | $150-$400 |
+| **Total** | **~$1,200-$3,700/month** |
 
 > [!key-takeaway]
 > A room-rental setup in an existing clinic is the lowest-risk way to start. You skip fitout costs, share infrastructure, and can change location without major financial commitment. Most new solo practitioners start this way and it's the approach this guide assumes.

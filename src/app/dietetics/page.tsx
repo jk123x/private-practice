@@ -31,8 +31,7 @@ export default function DieteticsPage() {
       <section className="py-16 sm:py-24">
         <div className="container-narrow">
           <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-[var(--color-ink)] leading-tight">
-            You spent {profession.trainingYears} years learning nutrition
-            science. Nobody taught you how to run a business.
+            Your degree was built around hospitals and community health. Private practice got maybe one lecture, if that.
           </h2>
           <div className="mt-8 space-y-5 text-[var(--color-ink-light)] leading-relaxed">
             <p>
@@ -56,7 +55,7 @@ export default function DieteticsPage() {
               influencers can set up shop with no qualifications, often charging
               less and making bigger claims. Your advantage is clinical
               credibility and Medicare access through the CDM pathway. Knowing
-              how to use that advantage is the business skill nobody taught you.
+              how to use that advantage is the business skill that wasn&apos;t in the degree.
             </p>
           </div>
         </div>

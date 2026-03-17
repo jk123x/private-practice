@@ -47,7 +47,7 @@ export const professions: Record<string, Profession> = {
     metaDescription:
       "Step-by-step guide to starting your physiotherapy private practice in Australia. Medicare CDM billing (updated for GPCCMP 2025), provider numbers, costs, and business setup.",
     heroSubtitle:
-      "You spent 4 years learning to treat patients. Nobody taught you how to run a business.",
+      "Physio is the biggest private practice market in allied health. Everyone knows what you do. The hard part is the business underneath it.",
   },
 
   podiatry: {
@@ -96,7 +96,7 @@ export const professions: Record<string, Profession> = {
     metaDescription:
       "How to start your podiatry private practice in Australia. CDM Medicare billing (updated for GPCCMP 2025), provider numbers, equipment costs, and practice setup.",
     heroSubtitle:
-      "You spent 4 years learning to treat patients. Nobody taught you how to run a business.",
+      "CDM billing from day one, equipment costs that dwarf other allied health startups, and a caseload built around diabetic foot care. Podiatry private practice has its own playbook.",
   },
 
   "exercise-physiology": {
@@ -146,7 +146,7 @@ export const professions: Record<string, Profession> = {
     metaDescription:
       "How to start your exercise physiology private practice. Medicare CDM billing (updated for GPCCMP 2025), ESSA accreditation, costs, and business setup in Australia.",
     heroSubtitle:
-      "You spent 4 years learning to prescribe exercise as medicine. Nobody taught you how to run a business.",
+      "Half your job is explaining to GPs what an exercise physiologist does. The other half is navigating a GST trap and non-AHPRA registration that changes how everything works.",
   },
 
   dietetics: {
@@ -196,7 +196,7 @@ export const professions: Record<string, Profession> = {
     metaDescription:
       "How to start your dietetics private practice in Australia. Medicare CDM billing (updated for GPCCMP 2025), DA accreditation, practice costs, and setup guide.",
     heroSubtitle:
-      "You spent 4+ years learning nutrition science. Nobody taught you how to run a business.",
+      "Low overhead, telehealth-ready from day one, and Medicare access through CDM. The setup is simpler than most allied health. The competition from unqualified nutritionists is not.",
   },
 };
 

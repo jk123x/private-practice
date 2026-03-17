@@ -31,8 +31,8 @@ export default function ExercisePhysiologyPage() {
       <section className="py-16 sm:py-24">
         <div className="container-narrow">
           <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-[var(--color-ink)] leading-tight">
-            You spent {profession.trainingYears} years learning to prescribe
-            exercise as medicine. Nobody taught you how to run a business.
+            Not AHPRA-registered. A GST exemption that might not apply to you.
+            And GPs who aren&apos;t sure what you do. EP private practice has extra hurdles.
           </h2>
           <div className="mt-8 space-y-5 text-[var(--color-ink-light)] leading-relaxed">
             <p>

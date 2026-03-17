@@ -31,8 +31,7 @@ export default function PhysiotherapyPage() {
       <section className="py-16 sm:py-24">
         <div className="container-narrow">
           <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-[var(--color-ink)] leading-tight">
-            You spent {profession.trainingYears} years learning to treat
-            patients. Nobody taught you how to run a business.
+            28,500 physios in private practice. 535 new practices opening every year. And almost no business training in the degree.
           </h2>
           <div className="mt-8 space-y-5 text-[var(--color-ink-light)] leading-relaxed">
             <p>

@@ -1,18 +1,18 @@
 # Chapter 7: Your First 90 Days
 
 > [!tldr]
-> Week-by-week plan from an empty diary to 18-22 patients per week. The quiet first few weeks are normal — use them for GP visits, not worrying. By month three, if you've done the outreach, you'll have a functioning practice with steady referrals.
+> A week-by-week plan from an empty diary to 18-22 patients per week. The quiet first few weeks are normal. Use them for GP visits, not worrying. By month three, if you've done the outreach, you'll have a functioning practice with steady referrals coming in.
 
 > [!key-number]
-> **18–22** — target patients per week at 90 days
-> **10–15** — GP clinics to visit in your first month
-> **10+** — Google reviews to aim for by week 12
+> **18-22** target patients per week at 90 days
+> **10-15** GP clinics to visit in your first month
+> **10+** Google reviews to aim for by week 12
 
 Not every week will match this plan exactly. Patients cancel, paperwork takes longer than you expect, and you'll discover things about your area that shift your priorities. That's fine. This plan gives you a structure so you always know what to focus on next, rather than sitting in an empty clinic wondering what to do.
 
 ## Before Day 1
 
-These need to be done before you see anyone. If you're reading this and some items aren't ticked, do them first — everything else depends on this foundation being in place.
+These need to be done before you see anyone. If you're reading this and some items aren't ticked, do them first. Everything else depends on this foundation being in place.
 
 - [ ] Business structure registered (sole trader or Pty Ltd)
 - [ ] ABN obtained
@@ -43,11 +43,11 @@ These need to be done before you see anyone. If you're reading this and some ite
 
 These first two weeks feel slow. You'll see 3-8 patients, mostly from your personal network and early directory enquiries. Revenue is low. That's completely normal and expected.
 
-Use the quiet time well. This is when you visit GP clinics — you'll never have this much free time in your diary again.
+Use the quiet time well. This is when you visit GP clinics. You'll never have this much free time in your diary again.
 
-On the clinical side, see your first patients, figure out the flow of your day (check-in, session, billing, notes, clean-up), and time everything. How long do your initial assessments actually take? How much admin sits around each appointment? You'll refine this quickly once you have real data.
+On the clinical side, see your first patients, figure out the flow of your day (check-in, session, billing, notes, clean-up), and time everything. How long do your initial assessments take in practice? How much admin sits around each appointment? You'll refine this quickly once you have real data.
 
-The most important thing you do these two weeks: **visit 5-8 GP clinics.** Introduce yourself to practice managers, leave your info sheet, ask how they prefer to receive reports. And when you get your first referral — from any source — send a report to the referring GP within a day or two. A good initial assessment report is the single best thing you can do for your practice right now.
+The most important thing you do these two weeks: **visit 5-8 GP clinics.** Introduce yourself to practice managers, leave your info sheet, ask how they prefer to receive reports. And when you get your first referral, from any source, send a report to the referring GP within a day or two. A good initial assessment report is the single best thing you can do for your practice right now.
 
 Run a test Medicare claim through your software to make sure everything is configured properly. Set up your tax savings transfers and start your super contributions.
 
@@ -67,11 +67,11 @@ Run a test Medicare claim through your software to make sure everything is confi
 
 You should be seeing 8-12 patients per week by now. Repeat bookings from weeks 1-2 start appearing. Your clinical notes routine is getting faster. The admin around each session feels less clunky.
 
-Visit another 5-8 GP clinics. By the end of week 4, you should have introduced yourself to 10-15 practices total. Follow up with the clinics from weeks 1-2 — a quick phone call or drop-in to check if your details reached the GPs.
+Visit another 5-8 GP clinics. By the end of week 4, you should have introduced yourself to 10-15 practices total. Follow up with the clinics from weeks 1-2. A quick phone call or drop-in to check if your details reached the GPs.
 
 This is also when to ask your first satisfied patients to leave Google reviews. It feels awkward, but most people are happy to help if you ask. Even 2-3 reviews in your first month makes a difference to your visibility in local search. Something like "If you've had a good experience, a Google review would help other patients find me" is enough.
 
-Connect with 2-3 other allied health practitioners in your area. Not competitors — colleagues. A physio talking to a local EP, podiatrist, or dietitian. You'll cross-refer, compare notes on GP relationships, and have someone who understands what you're going through.
+Connect with 2-3 other allied health practitioners in your area. Not competitors. Colleagues. A physio talking to a local EP, podiatrist, or dietitian. You'll cross-refer, compare notes on GP relationships, and have someone who understands what you're going through.
 
 At the end of month one, sit down with your numbers: total revenue, total expenses, patients seen, average fee per session, cancellation rate. This is your baseline. It will be lower than you want. That's what a baseline looks like.
 
@@ -88,13 +88,13 @@ At the end of month one, sit down with your numbers: total revenue, total expens
 
 Target: 12-18 patients per week by the end of week 8. GP referrals from your initial outreach are starting to flow. You're seeing a mix of new patients and return visits.
 
-Shift your GP effort from breadth to depth. You'll notice that a few GPs are sending you most of your referrals — these are your highest-value relationships. Make sure your reports to these GPs are consistently excellent. A brief thank-you email after a few referrals doesn't hurt. If they're open to it, offer to do a quick lunch-and-learn at their clinic on a relevant topic.
+Shift your GP effort from breadth to depth. You'll notice that a few GPs are sending you most of your referrals. These are your highest-value relationships. Make sure your reports to these GPs are consistently excellent. A brief thank-you email after a few referrals doesn't hurt. If they're open to it, offer to do a quick lunch-and-learn at their clinic on a relevant topic.
 
 If you still have gaps in your schedule, target GP clinics in areas you haven't covered yet. But the biggest lever at this point is quality of relationship with existing referrers, not quantity of new contacts.
 
 Ask every satisfied patient for a Google review. Aim for 8-10 total by end of week 8.
 
-Start tracking where your patients come from — which GPs, which directories, word of mouth. This data tells you where to focus your effort and what's not working.
+Start tracking where your patients come from. Which GPs, which directories, word of mouth. This data tells you where to focus your effort and what's not working.
 
 > [!tip]
 > A simple spreadsheet tracking each new patient's referral source (which GP, which directory, word of mouth, personal network) pays off quickly. After 2-3 months you'll see which GPs are your bread and butter and which directories are worth keeping.
@@ -113,7 +113,7 @@ Start tracking where your patients come from — which GPs, which directories, w
 
 Target: 18-22 patients per week. You should have a mix of new CDM referrals and ongoing treatment plans. Organic referrals (patients telling other patients, GPs referring without you needing to visit) are starting to appear.
 
-Maintain your GP relationships through consistent reporting. Consider community engagement if you have time — a talk at a local community group or connecting with pharmacies or gyms can fill gaps.
+Maintain your GP relationships through consistent reporting. Consider community engagement if you have time. A talk at a local community group or connecting with pharmacies or gyms can fill remaining gaps.
 
 At the end of week 12, do a full quarterly review. This is important because it's the first time you have enough data to see real trends.
 
@@ -147,7 +147,7 @@ Not every practice hits these numbers on schedule. If you're behind, the cause i
 
 **Patients aren't rebooking.** Are you explaining treatment plans clearly at the first session? Do patients understand why they need to come back and roughly how many sessions to expect? Setting expectations at the initial assessment ("I'd recommend we do four weekly sessions and then reassess") gives people a reason to book the next one.
 
-**Costs are too high relative to revenue.** Look at your room rental first — it's probably your biggest expense. Can you rent fewer days to start? Share space? Also check your software subscriptions — are you paying for features you don't use?
+**Costs are too high relative to revenue.** Look at your room rental first. It's probably your biggest expense. Can you rent fewer days to start? Share space? Also check your software subscriptions. Are you paying for features you don't use?
 
 **You're burning out.** You're probably doing too much admin yourself (see Chapter 6, mistake 8). What can you outsource this month? And check your schedule: back-to-back patients with no breaks isn't sustainable. Build in 10-15 minutes between sessions and a real lunch break.
 
@@ -159,7 +159,7 @@ If you've hit most of the benchmarks at 90 days, your practice is established. R
 
 **Months 7-12:** Focus on efficiency. Can you see the same number of patients with less admin time? Build relationships with specialists and other allied health for cross-referrals. Consider whether group sessions, telehealth expansion, or home visits would add value.
 
-**Year 2:** Annual fee review. Business structure review with your accountant. Consider hiring admin support if the non-clinical work is eating too much of your time. Explore additional revenue streams — group programs, corporate wellness, NDIS expansion.
+**Year 2:** Annual fee review. Business structure review with your accountant. Consider hiring admin support if the non-clinical work is eating too much of your time. Explore additional revenue streams: group programs, corporate wellness, NDIS expansion.
 
 > [!action]
 > ## 90-Day Summary

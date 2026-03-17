@@ -30,7 +30,7 @@ export const product = {
       number: 1,
       title: "The Decision: Employed vs Private",
       description:
-        "A real income comparison. What you'll actually take home in Year 1 vs staying employed, once you account for super, leave, and the expenses nobody mentions. Plus the scenarios where staying employed is the smarter call.",
+        "A real income comparison. What you'll take home in Year 1 vs staying employed, once you account for super, leave, and the expenses most calculators leave out. Plus the scenarios where staying employed is the smarter call.",
     },
     {
       number: 2,
@@ -81,9 +81,9 @@ export const product = {
     "Practice setup costs, broken down",
   ],
   paidTopics: [
-    "Should you go private? (real income numbers, not 'it depends')",
+    "Should you go private? A side-by-side income comparison for Year 1",
     "NDIS: should you register, and what it costs if you don't",
-    "What to charge per session (framework, not 'check your area')",
+    "What to charge per session, with the maths worked through",
     "How to get GPs referring to you when you know zero GPs",
     "Tax, super, and cash flow on variable income",
     "Ten mistakes that cost new practice owners $10,000+",
@@ -99,11 +99,11 @@ export const salesPages: Record<string, SalesPageData> = {
     metaTitle: "The Practice Setup Guide for Physiotherapists | $79 AUD",
     metaDescription:
       "65-page guide to starting your physio practice in Australia. Medicare billing (updated for GPCCMP), pricing, GP referrals, and a 90-day action plan. $79.",
-    headline: "Nobody teaches physios how to run a business.",
+    headline: "You can diagnose a rotator cuff tear. Can you set a session fee?",
     subheadline:
-      "What it actually costs, what to charge, how to get GPs referring to you, and a week-by-week plan for your first 90 days. Updated for the July 2025 Medicare changes.",
+      "What it costs, what to charge, how to get GPs referring to you, and a week-by-week plan for your first 90 days. Updated for the July 2025 Medicare changes.",
     problemParagraphs: [
-      "You've probably been Googling some combination of 'how much does it cost to start a physio practice' and 'sole trader or Pty Ltd for allied health' and getting the same vague answers everywhere. It depends. Talk to your accountant. Do your research.",
+      "You've been Googling some combination of 'how much does it cost to start a physio practice' and 'sole trader or Pty Ltd for allied health' and getting the same vague answers everywhere. Lots of 'talk to your accountant' and very few dollar figures.",
       "Meanwhile, Medicare CDM billing changed in July 2025 when GPCCMP replaced the old GPMP/TCA system. Most of the content you're finding online still references rules that no longer apply. You're trying to figure out the 5-session shared cap, whether referrals need a form or a letter now, and what happens to patients on existing plans.",
       "And then there's the GP referral question. Your entire CDM patient pipeline depends on GPs sending patients to you, and your degree included exactly zero hours on how to walk into a GP clinic and introduce yourself.",
       "Everything else out there is either a regulatory checklist (ABN, AHPRA, provider number) that tells you WHAT to do but not how to think about it, or a $5,000 coaching program for people who already have an established practice. This guide sits in the gap: specific numbers, specific steps, current rules, $79.",
@@ -151,7 +151,7 @@ export const salesPages: Record<string, SalesPageData> = {
     metaDescription:
       "65-page guide to starting your EP practice in Australia. NDIS, Medicare as a non-AHPRA profession, GST, GP referrals, and a 90-day plan. $79.",
     headline:
-      "There's no business guide for exercise physiologists. So we wrote one.",
+      "Every business guide is written for physios. This one is for EPs.",
     subheadline:
       "NDIS registration decisions, Medicare billing as a non-AHPRA profession, getting GPs to understand what you do, and a 90-day plan for building your practice.",
     problemParagraphs: [
@@ -164,7 +164,7 @@ export const salesPages: Record<string, SalesPageData> = {
       {
         question: "Can I find this online for free?",
         answer:
-          "The reference material, yes. Four chapters' worth is free on this site. What doesn't exist anywhere is a single resource covering the decisions specific to EPs going private: should you do it, how to price, how to build GP referrals when they don't know what you do, and what order to tackle it. There's virtually nothing written for EPs on the business side.",
+          "The reference material, yes. Four chapters' worth is free on this site. What doesn't exist anywhere is a single resource covering the decisions specific to EPs going private. Should you do it, how to price, how to build GP referrals when they don't know what you do, and what order to tackle it. There's very little written for EPs on the business side.",
       },
       {
         question: "Is this relevant to my state or territory?",

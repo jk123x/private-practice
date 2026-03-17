@@ -20,14 +20,14 @@ export const guides: Record<string, Guide> = {
   "practice-costs": {
     slug: "practice-costs",
     title:
-      "What It Actually Costs to Start an Allied Health Private Practice",
+      "What It Costs to Start an Allied Health Private Practice",
     shortTitle: "Practice Costs",
     description:
-      "Real numbers for insurance, software, room rental, registration, and the hidden costs nobody warns you about. Broken down by profession.",
+      "Real numbers for insurance, software, room rental, registration, and the costs that don't show up in your initial budget. Broken down by profession.",
     metaTitle:
       "Allied Health Private Practice Startup Costs (2025) | Private Practice Guide",
     metaDescription:
-      "What it actually costs to start an allied health private practice in Australia. Real numbers for insurance, software, room rental, registration, and hidden costs.",
+      "What it costs to start an allied health private practice in Australia. Real numbers for insurance, software, room rental, registration, and overlooked expenses.",
     icon: "calculator",
     readingTime: "10 min read",
     lastUpdated: "February 2026",

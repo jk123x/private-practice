@@ -1,28 +1,28 @@
 # Chapter 4: Finding Your First Clients
 
 > [!tldr]
-> GPs are your referral pipeline. For CDM practitioners, almost everything flows from the GP creating a GPCCMP and referring the patient to you. Visit 10-15 clinics in your first month, send a solid report after every initial assessment, and the referrals build from there. Everything else — directories, community talks, your website — is supporting cast.
+> GPs are where your patients come from. For CDM practitioners, the whole chain starts with a GP creating a GPCCMP and referring the patient to you. Visit 10-15 clinics in your first month, send a solid report after every initial assessment, and referrals build from there. Directories, community talks, your website? Supporting cast.
 
 > [!key-number]
-> **10–15** — GP relationships needed to fill a solo practice
-> **1–3** — CDM referrals a single GP typically sends you per month
-> **6–12 months** — how long it takes most practitioners to reach a full patient load
+> **10-15** GP relationships needed to fill a solo practice
+> **1-3** CDM referrals a single GP typically sends you per month
+> **6-12 months** how long it takes most practitioners to reach a full patient load
 
 Your diary is empty and it's unsettling. You've got the room set up, the software configured, the insurance sorted, and nobody's booked in. The first week of private practice is a weird mix of excitement and panic.
 
-The panic is unnecessary, but it doesn't feel that way. So let's talk about where patients come from and what to do about it, in order of what actually works.
+The panic is unnecessary, but it doesn't feel that way. So let's talk about where patients come from and what to do about it, in order of what works.
 
 ## GPs: The Only Channel That Really Matters
 
 For CDM practitioners, the referral chain is straightforward. A GP identifies a patient with a chronic condition, creates a GPCCMP, and refers the patient to allied health. Without that GP referral, the patient can't see you under Medicare CDM. Your entire CDM pipeline flows through GPs.
 
-Which means building GP relationships isn't "marketing." It's the core infrastructure of your practice. Skip this and nothing else matters — the best website in the world won't help if no GPs know your name.
+Building GP relationships isn't "marketing." It's the core infrastructure of your practice. Skip this and nothing else matters. The best website in the world won't help if no GPs know your name.
 
 ### Finding the right GPs
 
 Start with geography. Every GP clinic within 5-10km of your practice location is a potential referral source. In a metro area that might be 20-40 clinics. Regional, maybe 5-15.
 
-Don't try to reach all of them at once. Pick 10-15 to start with. Prioritise the ones closest to you (patients prefer convenience), larger group practices (more GPs means more potential referrals), and clinics in areas with older demographics or higher chronic disease prevalence — those patients generate the most CDM plans.
+Don't try to reach all of them at once. Pick 10-15 to start with. Prioritise the ones closest to you (patients prefer convenience), larger group practices (more GPs means more potential referrals), and clinics in areas with older demographics or higher chronic disease prevalence. Those patients generate the most CDM plans.
 
 ### Making the first contact
 
@@ -30,22 +30,22 @@ This is where people get stuck. You're a clinician, not a sales rep, and the ide
 
 Reframe it. You're not selling. GPs need to refer their CDM patients somewhere. They'd rather refer to someone local, someone they know, someone who sends reports back. You're making their life easier, not pitching them.
 
-**The drop-in works best.** Visit during a quieter time — mid-morning or mid-afternoon, skip Mondays and Fridays. Ask to speak briefly with the practice manager. They're the gatekeeper, and they're often the one who suggests allied health providers when a GP asks.
+**The drop-in works best.** Visit during a quieter time, mid-morning or mid-afternoon, skip Mondays and Fridays. Ask to speak briefly with the practice manager. They're the gatekeeper, and they're often the one who suggests allied health providers when a GP asks.
 
-Your intro is simple: "Hi, I'm [name], a [profession] setting up a practice at [location]. I wanted to introduce myself in case you have CDM patients who need referrals for [your services]." Leave a one-page info sheet (your name, qualifications, location, contact, what you treat, any specialty interests) and business cards. Include your fax number — GPs still fax referrals in 2026, whether you like it or not.
+Your intro is simple: "Hi, I'm [name], a [profession] setting up a practice at [location]. I wanted to introduce myself in case you have CDM patients who need referrals for [your services]." Leave a one-page info sheet (your name, qualifications, location, contact, what you treat, any specialty interests) and business cards. Include your fax number. GPs still fax referrals in 2026, whether you like it or not.
 
 You're not asking for a meeting with the GP. You're not trying to get 15 minutes of anyone's time. You're dropping off your details so the practice knows you exist. That's it.
 
 > [!tip]
 > Your one-page info sheet is doing the heavy lifting after you leave. Make it good. Your name, qualifications, location, phone, fax, email, the conditions you treat, your availability, and how to refer (letter, fax, software). One page, clean layout, easy to pin on a noticeboard or file in their referral folder.
 
-**Letters work too,** particularly if a drop-in feels too confrontational. A brief letter addressed to the GPs at the clinic — who you are, where you practice, what you treat, how to refer. Post it physically (physical mail still gets opened in medical clinics). Follow up with a phone call a week or two later to check it arrived and see if there's a good time to introduce yourself briefly.
+**Letters work too,** particularly if a drop-in feels too confrontational. A brief letter addressed to the GPs at the clinic: who you are, where you practice, what you treat, how to refer. Post it physically (physical mail still gets opened in medical clinics). Follow up with a phone call a week or two later to check it arrived and see if there's a good time to introduce yourself briefly.
 
-### The thing that actually gets you more referrals
+### The thing that gets you more referrals
 
-Your first referral from a GP — however it comes — is the moment that matters most. Because what you do after that first patient determines whether more follow.
+Your first referral from a GP, however it comes, is the moment that matters most. What you do after that first patient determines whether more follow.
 
-Send a report after the initial assessment. A proper one. Your findings, your treatment plan, the expected timeline, anything the GP should know. Keep it concise — three paragraphs beats three pages. GPs are busy and they'll skim, so put the important stuff up front.
+Send a report after the initial assessment. A proper one. Your findings, your treatment plan, the expected timeline, anything the GP should know. Keep it concise. Three paragraphs beats three pages. GPs are busy and they'll skim, so put the important stuff up front.
 
 GPs who receive good reports refer again. GPs who refer patients into a black hole and never hear back stop referring. This is the single highest-leverage thing you can do for your practice.
 
@@ -56,7 +56,7 @@ GPs who receive good reports refer again. GPs who refer patients into a black ho
 
 Once referrals start, maintaining them is about consistency more than effort.
 
-Send a report after every initial assessment, not just the first one. Respond to referrals quickly — if a GP sends someone and the patient can't get in for three weeks, that GP looks elsewhere next time. A brief progress update for longer treatment courses shows the GP their patient is being looked after. Accept referrals via whatever method the GP prefers, even if fax feels like 1997.
+Send a report after every initial assessment, not just the first one. Respond to referrals quickly. If a GP sends someone and the patient can't get in for three weeks, that GP looks elsewhere next time. A brief progress update for longer treatment courses shows the GP their patient is being looked after. Accept referrals via whatever method the GP prefers, even if fax feels like 1997.
 
 Keep your communication brief and clinical. A three-paragraph report beats a three-page essay. GPs respect your time; respect theirs.
 
@@ -70,7 +70,7 @@ You don't need hundreds of GP contacts. You need 10-15 good ones.
 
 Online directories are background marketing. You set them up, and they bring in a trickle of patients who are actively searching for your services. They won't fill your diary, but they're worth the couple of hours to set up.
 
-**Google Business Profile** is the most important one. When someone searches "physiotherapist near me," Google shows local businesses first. Get your listing up with correct details, accurate hours, a few real photos of your space (not stock photos), and your service categories. Ask early patients to leave reviews — 5-10 genuine Google reviews make a meaningful difference to your visibility, and most patients are happy to help if you ask.
+**Google Business Profile** is the most important one. When someone searches "physiotherapist near me," Google shows local businesses first. Get your listing up with correct details, accurate hours, a few real photos of your space (not stock photos), and your service categories. Ask early patients to leave reviews. 5-10 genuine Google reviews make a meaningful difference to your visibility, and most patients are happy to help if you ask.
 
 > [!tip]
 > Pick a day in your second week and knock out all your directory listings in one sitting. Google Business Profile, Healthdirect (free, government-run, worth the 10 minutes), your professional association's "find a practitioner" directory, and optionally HotDoc or HealthEngine if they're used in your area. Two hours, done, move on.
@@ -83,17 +83,17 @@ Online directories are background marketing. You set them up, and they bring in 
 
 GP referrals take time to build. While you're waiting for that pipeline, there are a few ways to get patients through the door.
 
-**Your existing network.** You know people. Former colleagues, uni contacts, placement supervisors, friends who know someone with a dodgy knee. Let everyone in your professional and personal circle know you've opened a practice. Not a sales pitch — just "I've started my own practice at [location], if you or anyone you know needs [your profession], I'd love to help." Word of mouth travels fast in allied health communities.
+**Your existing network.** You know people. Former colleagues, uni contacts, placement supervisors, friends who know someone with a dodgy knee. Let everyone in your professional and personal circle know you've opened a practice. Not a sales pitch. More like "I've started my own practice at [location], if you or anyone you know needs [your profession], I'd love to help." Word of mouth travels fast in allied health communities.
 
-**Community talks.** Offer a free 20-minute talk at a local community group — Rotary clubs, seniors' centres, chronic disease support groups, sporting clubs. Falls prevention, managing chronic pain, exercise for diabetes, whatever fits your profession. You're not selling. You're demonstrating that you know what you're talking about, and you're putting your name in front of people who might need you or know someone who does.
+**Community talks.** Offer a free 20-minute talk at a local community group: Rotary clubs, seniors' centres, chronic disease support groups, sporting clubs. Falls prevention, managing chronic pain, exercise for diabetes, whatever fits your profession. You're not selling. You're demonstrating that you know what you're talking about, and you're putting your name in front of people who might need you or know someone who does.
 
 **Local pharmacies.** Pharmacists see patients regularly and get asked for recommendations. Drop in, introduce yourself, leave cards. Same low-effort approach as GP visits.
 
 **Gyms and fitness centres** (especially relevant for physios and EPs). Personal trainers regularly encounter clients who need clinical help. A good relationship with a couple of local gyms can generate referrals that bypass the CDM pathway entirely (private patients).
 
-### Social media — limited role but a role
+### Social media: limited role but a role
 
-Social media won't fill your diary in the early months. But a basic professional presence on Facebook or Instagram serves two purposes: it validates you when potential patients Google your name, and short educational posts position you as someone who knows what they're talking about.
+Social media won't fill your diary in the early months. But a basic professional presence on Facebook or Instagram serves two purposes: it validates you when potential patients Google your name, and short educational posts position you as someone who knows their stuff.
 
 Don't spend hours on content creation. One or two posts per week on topics relevant to your patients. A 60-second video explaining what a CDM referral is or how to manage a chronic condition at home will get more engagement than a polished brand post. Keep it clinical, keep it simple, keep it occasional.
 
