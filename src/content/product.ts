@@ -115,7 +115,7 @@ export const salesPages: Record<string, SalesPageData> = {
       "85-page guide to starting your physio practice in Australia. Medicare billing (updated for GPCCMP), pricing, GP referrals, and a 90-day action plan. $79.",
     headline: "You can diagnose a rotator cuff tear. Can you set a session fee?",
     subheadline:
-      "What it costs, what to charge, how to get GPs referring to you, and a week-by-week plan for your first 90 days. Updated for the July 2025 Medicare changes.",
+      "Where to practise, what to charge, how to set up Medicare billing, how to get GPs referring to you, and a week-by-week plan for your first 90 days. Updated for the July 2025 GPCCMP changes.",
     problemParagraphs: [
       "You've been Googling some combination of 'how much does it cost to start a physio practice' and 'sole trader or Pty Ltd for allied health' and getting the same vague answers everywhere. Lots of 'talk to your accountant' and very few dollar figures.",
       "Meanwhile, Medicare CDM billing changed in July 2025 when GPCCMP replaced the old GPMP/TCA system. Most of the content you're finding online still references rules that no longer apply. You're trying to figure out the 5-session shared cap, whether referrals need a form or a letter now, and what happens to patients on existing plans.",
@@ -167,7 +167,7 @@ export const salesPages: Record<string, SalesPageData> = {
     headline:
       "Every business guide is written for physios. This one is for EPs.",
     subheadline:
-      "NDIS registration decisions, Medicare billing as a non-AHPRA profession, getting GPs to understand what you do, and a 90-day plan for building your practice.",
+      "NDIS registration decisions, Medicare CDM billing, the GST trap for non-AHPRA professions, getting GPs to understand what you do, and a 90-day plan for building your practice.",
     problemParagraphs: [
       "The business guides that exist for physios and podiatrists don't exist for you. And the generic allied health advice doesn't cover the things that are different for EPs: the GST rules, the ESSA accreditation pathway for Medicare, the NDIS registration decision, or the fact that half the GPs in your area aren't sure what an accredited exercise physiologist does.",
       "You're probably trying to figure out whether to register as an NDIS provider (and what it costs if you don't), how the GST exemption works when you're not AHPRA-registered, and how to explain to a GP why they should be referring CDM patients to you instead of the physio down the road.",
@@ -199,7 +199,7 @@ export const salesPages: Record<string, SalesPageData> = {
         question:
           "I'm ESSA-accredited but still working towards AEP. Can I use this?",
         answer:
-          "The business planning, pricing, and financial chapters are useful right now. The Medicare chapters explain the ESSA accreditation requirements for provider numbers, so you'll know exactly what you need when you're ready.",
+          "The business planning, pricing, and financial chapters are useful right now. The setup chapter covers the ESSA accreditation pathway and provider number process specifically for EPs, so you'll know exactly what steps are ahead when you're ready.",
       },
       {
         question: "Can I get a refund?",

@@ -117,6 +117,23 @@ Once PRODA is set up, link it to HPOS (Health Professional Online Services). Thi
 
 You applied for your provider number through HPOS (see the appendix for the step-by-step). Once it's active, confirm you can log in and see your provider details.
 
+### Provider numbers for exercise physiologists
+
+If you're an EP, the provider number process has an extra layer. Most CDM professions are AHPRA-registered, which means their registration is the credential Services Australia checks when processing your provider number application. EPs aren't AHPRA-registered. You're accredited through ESSA (Exercise & Sports Science Australia), and you need to be an Accredited Exercise Physiologist (AEP) specifically, not just an accredited exercise scientist (AES).
+
+**What you need before applying:**
+- Current AEP accreditation through ESSA (not AES, the accreditation levels are different for Medicare purposes)
+- Your ESSA accreditation certificate or member number
+- Proof of your practice location (same as everyone else)
+- PRODA account linked to HPOS (same as everyone else)
+
+**The application process** is the same HW093 form through HPOS. Where AHPRA-registered practitioners list their AHPRA registration number, you provide your ESSA accreditation details. Processing times are the same (2-6 weeks).
+
+**Maintaining your accreditation** matters more for EPs than AHPRA registration does for other professions, because if your ESSA accreditation lapses, your Medicare provider number becomes invalid. ESSA accreditation requires annual renewal and ongoing CPD. Set a calendar reminder well before your renewal date. Letting it lapse, even briefly, means you can't bill Medicare until it's reinstated.
+
+> [!warning]
+> **AES vs AEP matters.** An Accredited Exercise Scientist (AES) cannot get a Medicare provider number. Only Accredited Exercise Physiologists (AEP) qualify. If you're still working toward your AEP accreditation, you can see private patients and NDIS participants, but you can't bill Medicare CDM until the AEP is confirmed.
+
 ### Step 3: Configure your software
 
 This is where most practitioners get stuck, not because it's hard, but because they put it off.

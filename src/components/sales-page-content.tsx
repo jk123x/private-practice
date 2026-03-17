@@ -128,8 +128,9 @@ export function SalesPageContent({ professionKey }: SalesPageContentProps) {
             Reference vs playbook
           </h2>
           <p className="text-[var(--color-ink-muted)] mb-8">
-            Four free reference guides live on this site. This guide covers
-            the seven chapters that don&apos;t.
+            Four free reference guides live on this site. This guide is
+            different: nine chapters covering the decisions, the setup, and
+            the strategy that the reference guides don&apos;t touch.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="p-6 bg-[var(--color-surface-warm)] border border-[var(--color-border)] rounded-xl">

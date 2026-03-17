@@ -139,6 +139,8 @@ You need a Medicare provider number to bill CDM services. The number is tied to 
 > [!tip]
 > Apply at least 4-6 weeks before you plan to start seeing CDM patients. You need proof of your practice address (room rental agreement or lease), so have your location sorted before applying. Home visits and telehealth use your primary location's provider number.
 
+**Exercise physiologists:** You need current AEP accreditation through ESSA (not AES) to apply for a provider number. Provide your ESSA accreditation details where AHPRA-registered practitioners provide their AHPRA number. See Chapter 2 for the full breakdown.
+
 **If you move locations**, update your provider number. This is frequently forgotten and causes billing issues.
 
 ## Practice Costs

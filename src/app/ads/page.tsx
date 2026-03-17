@@ -234,10 +234,10 @@ function Ad1B_Physio5Sessions() {
 
 function Ad4A_PhysioMistakes() {
   const items = [
-    { amount: "$14,400", label: "underpricing your sessions" },
-    { amount: "$8,000–20,000", label: "no GP outreach strategy" },
+    { amount: "$10,000–20,000", label: "not setting up telehealth" },
+    { amount: "$5,000–15,000", label: "signing a lease too early" },
     { amount: "$50,000+", label: "wrong insurance coverage" },
-    { amount: "$5,000–15,000", label: "no tax savings plan" },
+    { amount: "$2,700+", label: "missing the session cap" },
   ];
   return (
     <AdShell>
@@ -528,7 +528,7 @@ const ADS = [
     component: Ad4A_PhysioMistakes,
     headline: "The Practice Setup Guide for Physiotherapists",
     primaryText:
-      "Underpricing your sessions: $14,400/year. Not visiting GPs before opening: 2–4 months of empty chairs. Skipping proper insurance: one claim, $50,000–500,000. Not saving for tax: $5,000–15,000 surprise bill in April. These aren't hypothetical. They're the patterns that come up across every profession, every location. This guide covers all ten, with the dollar figures and how to avoid each one.",
+      "Not setting up telehealth: $10,000–20,000/year in appointments that cancel instead of switching to video. Signing a lease too early: $5,000–15,000 in fixed costs before you have the patients to justify them. Skipping proper insurance: one claim, $50,000–500,000. Not tracking the 5-session shared cap: surprised patients and rebilled sessions. These aren't the obvious mistakes. They're the ones nobody warns you about. This guide covers ten of them, with the dollar figures and how to avoid each one.",
     cta: "Get the guide — $79",
   },
   {
