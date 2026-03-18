@@ -499,6 +499,13 @@ function Ad2A_EPNDIS() {
 
 // ─── AD DATA ─────────────────────────────────────────────
 
+function destinationUrl(profession: string, adId: string) {
+  const path =
+    profession === "Physio" ? "buy/physiotherapy" : "buy/exercise-physiology";
+  const utmContent = `ad-${adId.toLowerCase()}`;
+  return `https://privatepracticeguide.com.au/${path}?utm_source=meta&utm_medium=paid&utm_campaign=demand-test&utm_content=${utmContent}`;
+}
+
 const ADS = [
   {
     id: "1A",
@@ -892,11 +899,7 @@ export default function AdsPreviewPage() {
               <CopyField label="CTA button text" value={ad.cta} />
               <CopyField
                 label="Destination URL"
-                value={
-                  ad.profession === "Physio"
-                    ? "https://privatepracticeguide.com.au/buy/physiotherapy"
-                    : "https://privatepracticeguide.com.au/buy/exercise-physiology"
-                }
+                value={destinationUrl(ad.profession, ad.id)}
               />
             </div>
           </div>
