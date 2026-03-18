@@ -74,8 +74,68 @@ export function SalesPageContent({ professionKey }: SalesPageContentProps) {
         </div>
       </section>
 
-      {/* What's inside */}
+      {/* Value anchoring */}
       <section className="py-16 sm:py-24 bg-[var(--color-surface-warm)]">
+        <div className="container-narrow">
+          <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-[var(--color-ink)] mb-4">
+            One mistake costs more than this guide
+          </h2>
+          <p className="text-[var(--color-ink-muted)] mb-8">
+            These are real numbers from real practices. Each one is in the
+            guide with the maths and how to avoid it.
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            {[
+              {
+                amount: "$14,400/yr",
+                label: "Underpricing by $15/session",
+                detail:
+                  "20 patients/week, 48 weeks. That gap goes straight to your bottom line.",
+              },
+              {
+                amount: "$10,000–20,000/yr",
+                label: "Not offering telehealth",
+                detail:
+                  "2–4 appointments per week that cancel instead of switching to video.",
+              },
+              {
+                amount: "$5,000–15,000",
+                label: "Signing a lease too early",
+                detail:
+                  "Locked into $2,000–4,000/month before you have the patients to justify it.",
+              },
+              {
+                amount: "$2,700+/yr",
+                label: "Missing the 5-session cap",
+                detail:
+                  "Billing sessions Medicare won't cover. Rebilled claims and surprised patients.",
+              },
+            ].map((item) => (
+              <div
+                key={item.label}
+                className="p-5 bg-[var(--color-surface)] border border-[var(--color-border)] rounded-xl"
+              >
+                <p className="font-serif text-2xl font-semibold text-[var(--color-accent)]">
+                  {item.amount}
+                </p>
+                <p className="font-semibold text-[var(--color-ink)] mt-1">
+                  {item.label}
+                </p>
+                <p className="text-sm text-[var(--color-ink-muted)] mt-1">
+                  {item.detail}
+                </p>
+              </div>
+            ))}
+          </div>
+          <p className="mt-8 text-center text-[var(--color-ink-light)]">
+            This guide is{" "}
+            <span className="font-semibold text-[var(--color-ink)]">$79</span>.
+          </p>
+        </div>
+      </section>
+
+      {/* What's inside */}
+      <section className="py-16 sm:py-24">
         <div className="container-narrow">
           <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-[var(--color-ink)] mb-4">
             What&apos;s inside
@@ -121,63 +181,33 @@ export function SalesPageContent({ professionKey }: SalesPageContentProps) {
         </div>
       </section>
 
-      {/* Free vs Paid */}
-      <section className="py-16 sm:py-24">
+      {/* What you get */}
+      <section className="py-16 sm:py-24 bg-[var(--color-surface-warm)]">
         <div className="container-narrow">
           <h2 className="font-serif text-2xl sm:text-3xl font-semibold text-[var(--color-ink)] mb-4">
-            Reference vs playbook
+            One document, start to finish
           </h2>
           <p className="text-[var(--color-ink-muted)] mb-8">
-            Four free reference guides live on this site. This guide is
-            different: nine chapters covering the decisions, the setup, and
-            the strategy that the reference guides don&apos;t touch.
+            Not a collection of blog posts. Not a list of links to government
+            websites. A single guide that takes you from &ldquo;I&apos;ve
+            decided to go private&rdquo; to &ldquo;I&apos;m seeing 20 patients
+            a week,&rdquo; in order, with the numbers at every step.
           </p>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-            <div className="p-6 bg-[var(--color-surface-warm)] border border-[var(--color-border)] rounded-xl">
-              <p className="text-sm font-semibold text-[var(--color-ink-muted)] uppercase tracking-wider mb-4">
-                Free guides on this site
-              </p>
-              <ul className="space-y-3">
-                {product.freeGuides.map((item, i) => (
-                  <li
-                    key={i}
-                    className="flex gap-2 text-sm text-[var(--color-ink-light)]"
-                  >
-                    <Check
-                      size={16}
-                      className="shrink-0 mt-0.5 text-[var(--color-ink-muted)]"
-                    />
-                    {item}
-                  </li>
-                ))}
-              </ul>
-              <p className="mt-6 text-xs text-[var(--color-ink-muted)]">
-                Reference material. Available free.
-              </p>
-            </div>
-
-            <div className="p-6 bg-[var(--color-accent-bg)] border-2 border-[var(--color-accent)]/30 rounded-xl">
-              <p className="text-sm font-semibold text-[var(--color-accent-dark)] uppercase tracking-wider mb-4">
-                This guide
-              </p>
-              <ul className="space-y-3">
-                {product.paidTopics.map((item, i) => (
-                  <li
-                    key={i}
-                    className="flex gap-2 text-sm text-[var(--color-ink)]"
-                  >
-                    <Check
-                      size={16}
-                      className="shrink-0 mt-0.5 text-[var(--color-accent)]"
-                    />
-                    {item}
-                  </li>
-                ))}
-              </ul>
-              <p className="mt-6 text-xs font-medium text-[var(--color-accent-dark)]">
-                Strategy &amp; action plans. $79.
-              </p>
-            </div>
+          <div className="p-6 bg-[var(--color-accent-bg)] border-2 border-[var(--color-accent)]/30 rounded-xl">
+            <ul className="space-y-3">
+              {product.paidTopics.map((item, i) => (
+                <li
+                  key={i}
+                  className="flex gap-2 text-sm text-[var(--color-ink)]"
+                >
+                  <Check
+                    size={16}
+                    className="shrink-0 mt-0.5 text-[var(--color-accent)]"
+                  />
+                  {item}
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
       </section>
